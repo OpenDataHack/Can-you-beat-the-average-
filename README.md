@@ -5,7 +5,7 @@
 
 The aim of our project is to raise awareness of the overuse of resources
 and high emissions across the world, which are driving climate change and
-destroying habitatis world-over. In order to motivate this, we have developed
+destroying habitats world-over. In order to motivate this, we have developed
 a Shiny App which enables the user to input details of their journeys, including
 mode of transport, starting location, end destination, and then compare their
 consequent carbon footprint with the national average of their home country. By
@@ -38,4 +38,5 @@ various modes of transport.
 
 Ideally, we would also like to include calculations of the CO2 emissions
 resulting from household gas and electricity usage and factors concerning waste
-and food miles, in order to get a complete picture.
+and food miles, in order to get a complete picture. It would also have been good
+to make an actual app or game, for nicer user interfacing.

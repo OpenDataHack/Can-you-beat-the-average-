@@ -1,0 +1,2171 @@
+"","year","manufacturer","transmission_type","fuel_type","co2"
+"1",2002,"Volvo","Automatic","CNG",183.666666666667
+"2",2003,"Volvo","Automatic","CNG",183.666666666667
+"3",2004,"Volvo","Automatic","CNG",183.666666666667
+"4",2005,"Volvo","Automatic","CNG",181
+"5",2006,"Volvo","Automatic","CNG",179.5
+"6",2007,"Volvo","Automatic","CNG",179.5
+"7",2011,"Volkswagen","Manual","CNG",156.5
+"8",2012,"Volkswagen","Manual","CNG",156.5
+"9",2013,"Volkswagen","Manual","CNG",156.5
+"10",2002,"Volvo","Manual","CNG",165.333333333333
+"11",2003,"Volvo","Manual","CNG",165.333333333333
+"12",2004,"Volvo","Manual","CNG",165.333333333333
+"13",2005,"Volvo","Manual","CNG",164
+"14",2006,"Volvo","Manual","CNG",164
+"15",2007,"Volvo","Manual","CNG",164
+"16",2007,"Alfa Romeo","Automatic","Diesel",200.5
+"17",2008,"Alfa Romeo","Automatic","Diesel",201.833333333333
+"18",2009,"Alfa Romeo","Automatic","Diesel",201.833333333333
+"19",2010,"Alfa Romeo","Automatic","Diesel",199.333333333333
+"20",2011,"Alfa Romeo","Automatic","Diesel",119
+"21",2012,"Alfa Romeo","Automatic","Diesel",119
+"22",2013,"Alfa Romeo","Automatic","Diesel",119
+"23",2000,"Audi","Automatic","Diesel",201
+"24",2001,"Audi","Automatic","Diesel",222.833333333333
+"25",2002,"Audi","Automatic","Diesel",214.285714285714
+"26",2003,"Audi","Automatic","Diesel",207.5
+"27",2004,"Audi","Automatic","Diesel",198
+"28",2005,"Audi","Automatic","Diesel",209.684210526316
+"29",2006,"Audi","Automatic","Diesel",207.06
+"30",2007,"Audi","Automatic","Diesel",204.428571428571
+"31",2008,"Audi","Automatic","Diesel",200.529411764706
+"32",2009,"Audi","Automatic","Diesel",186.913793103448
+"33",2010,"Audi","Automatic","Diesel",187.142857142857
+"34",2011,"Audi","Automatic","Diesel",167.557692307692
+"35",2012,"Audi","Automatic","Diesel",149.041666666667
+"36",2013,"Audi","Automatic","Diesel",149.377049180328
+"37",2000,"BMW","Automatic","Diesel",219.25
+"38",2001,"BMW","Automatic","Diesel",224.285714285714
+"39",2002,"BMW","Automatic","Diesel",213
+"40",2003,"BMW","Automatic","Diesel",206.894736842105
+"41",2004,"BMW","Automatic","Diesel",213.181818181818
+"42",2005,"BMW","Automatic","Diesel",201.47619047619
+"43",2006,"BMW","Automatic","Diesel",200.8
+"44",2007,"BMW","Automatic","Diesel",189.65
+"45",2008,"BMW","Automatic","Diesel",173.162790697674
+"46",2009,"BMW","Automatic","Diesel",168.666666666667
+"47",2010,"BMW","Automatic","Diesel",163.767441860465
+"48",2011,"BMW","Automatic","Diesel",156.236363636364
+"49",2012,"BMW","Automatic","Diesel",148.008928571429
+"50",2013,"BMW","Automatic","Diesel",136.619834710744
+"51",2006,"Cadillac","Automatic","Diesel",194
+"52",2007,"Cadillac","Automatic","Diesel",194
+"53",2008,"Cadillac","Automatic","Diesel",187.6
+"54",2009,"Cadillac","Automatic","Diesel",186
+"55",2010,"Cadillac","Automatic","Diesel",186
+"56",2007,"Chevrolet","Automatic","Diesel",233
+"57",2008,"Chevrolet","Automatic","Diesel",220
+"58",2009,"Chevrolet","Automatic","Diesel",220
+"59",2010,"Chevrolet","Automatic","Diesel",209
+"60",2011,"Chevrolet","Automatic","Diesel",196.714285714286
+"61",2012,"Chevrolet","Automatic","Diesel",184.75
+"62",2013,"Chevrolet","Automatic","Diesel",176
+"63",2000,"Chrysler Jeep","Automatic","Diesel",308
+"64",2001,"Chrysler Jeep","Automatic","Diesel",308
+"65",2002,"Chrysler Jeep","Automatic","Diesel",255
+"66",2003,"Chrysler Jeep","Automatic","Diesel",263.666666666667
+"67",2004,"Chrysler Jeep","Automatic","Diesel",259
+"68",2005,"Chrysler Jeep","Automatic","Diesel",239
+"69",2006,"Chrysler Jeep","Automatic","Diesel",240.571428571429
+"70",2007,"Chrysler Jeep","Automatic","Diesel",247.222222222222
+"71",2008,"Chrysler Jeep","Automatic","Diesel",248
+"72",2009,"Chrysler Jeep","Automatic","Diesel",244.444444444444
+"73",2010,"Chrysler Jeep","Automatic","Diesel",233.9375
+"74",2011,"Chrysler Jeep","Automatic","Diesel",200.6
+"75",2012,"Chrysler Jeep","Automatic","Diesel",204.2
+"76",2013,"Chrysler Jeep","Automatic","Diesel",204.583333333333
+"77",2000,"Citroen","Automatic","Diesel",230.75
+"78",2001,"Citroen","Automatic","Diesel",172.166666666667
+"79",2002,"Citroen","Automatic","Diesel",172.166666666667
+"80",2003,"Citroen","Automatic","Diesel",172.166666666667
+"81",2004,"Citroen","Automatic","Diesel",172.166666666667
+"82",2005,"Citroen","Automatic","Diesel",198
+"83",2006,"Citroen","Automatic","Diesel",185.5
+"84",2007,"Citroen","Automatic","Diesel",174.090909090909
+"85",2008,"Citroen","Automatic","Diesel",184.533333333333
+"86",2009,"Citroen","Automatic","Diesel",175.705882352941
+"87",2010,"Citroen","Automatic","Diesel",171.894736842105
+"88",2011,"Citroen","Automatic","Diesel",147.8
+"89",2012,"Citroen","Automatic","Diesel",137.2
+"90",2013,"Citroen","Automatic","Diesel",127.038461538462
+"91",2000,"Daewoo Cars","Automatic","Diesel",290
+"92",2001,"Daewoo Cars","Automatic","Diesel",290
+"93",2002,"Daewoo Cars","Automatic","Diesel",297.5
+"94",2008,"Dodge","Automatic","Diesel",250
+"95",2009,"Dodge","Automatic","Diesel",204
+"96",2010,"Dodge","Automatic","Diesel",209
+"97",2003,"Fiat","Automatic","Diesel",163.5
+"98",2005,"Fiat","Automatic","Diesel",153
+"99",2006,"Fiat","Automatic","Diesel",163.5
+"100",2009,"Fiat","Automatic","Diesel",118.6
+"101",2010,"Fiat","Automatic","Diesel",114.25
+"102",2011,"Fiat","Automatic","Diesel",124.4
+"103",2012,"Fiat","Automatic","Diesel",124.8
+"104",2013,"Fiat","Automatic","Diesel",119.666666666667
+"105",2000,"Ford","Automatic","Diesel",229
+"106",2001,"Ford","Automatic","Diesel",229
+"107",2002,"Ford","Automatic","Diesel",202.75
+"108",2003,"Ford","Automatic","Diesel",165.347826086957
+"109",2004,"Ford","Automatic","Diesel",202.2
+"110",2005,"Ford","Automatic","Diesel",163.92
+"111",2006,"Ford","Automatic","Diesel",170.461538461538
+"112",2007,"Ford","Automatic","Diesel",138.6
+"113",2008,"Ford","Automatic","Diesel",176.285714285714
+"114",2009,"Ford","Automatic","Diesel",169.35
+"115",2010,"Ford","Automatic","Diesel",166.769230769231
+"116",2011,"Ford","Automatic","Diesel",160.833333333333
+"117",2012,"Ford","Automatic","Diesel",158.15
+"118",2013,"Ford","Automatic","Diesel",154.925
+"119",2007,"Honda","Automatic","Diesel",167
+"120",2008,"Honda","Automatic","Diesel",167
+"121",2009,"Honda","Automatic","Diesel",167
+"122",2010,"Honda","Automatic","Diesel",171.833333333333
+"123",2011,"Honda","Automatic","Diesel",170.421052631579
+"124",2012,"Honda","Automatic","Diesel",169.333333333333
+"125",2013,"Honda","Automatic","Diesel",167.4
+"126",2001,"Hyundai","Automatic","Diesel",235
+"127",2002,"Hyundai","Automatic","Diesel",224
+"128",2003,"Hyundai","Automatic","Diesel",237
+"129",2004,"Hyundai","Automatic","Diesel",235
+"130",2005,"Hyundai","Automatic","Diesel",230.25
+"131",2006,"Hyundai","Automatic","Diesel",216.666666666667
+"132",2007,"Hyundai","Automatic","Diesel",214.4
+"133",2008,"Hyundai","Automatic","Diesel",190.833333333333
+"134",2009,"Hyundai","Automatic","Diesel",190.833333333333
+"135",2010,"Hyundai","Automatic","Diesel",180.333333333333
+"136",2011,"Hyundai","Automatic","Diesel",182.625
+"137",2012,"Hyundai","Automatic","Diesel",182
+"138",2013,"Hyundai","Automatic","Diesel",176.857142857143
+"139",2011,"Infiniti","Automatic","Diesel",220.333333333333
+"140",2012,"Infiniti","Automatic","Diesel",220.333333333333
+"141",2013,"Infiniti","Automatic","Diesel",224.5
+"142",2000,"Isuzu","Automatic","Diesel",289
+"143",2001,"Isuzu","Automatic","Diesel",289
+"144",2002,"Isuzu","Automatic","Diesel",280
+"145",2003,"Isuzu","Automatic","Diesel",275.5
+"146",2004,"Isuzu","Automatic","Diesel",275.5
+"147",2005,"Isuzu","Automatic","Diesel",275.5
+"148",2006,"Isuzu","Automatic","Diesel",275.5
+"149",2005,"Jaguar Cars","Automatic","Diesel",208
+"150",2006,"Jaguar Cars","Automatic","Diesel",211
+"151",2007,"Jaguar Cars","Automatic","Diesel",211
+"152",2008,"Jaguar Cars","Automatic","Diesel",211
+"153",2009,"Jaguar Cars","Automatic","Diesel",193.833333333333
+"154",2010,"Jaguar Cars","Automatic","Diesel",192
+"155",2011,"Jaguar Cars","Automatic","Diesel",187.222222222222
+"156",2012,"Jaguar Cars","Automatic","Diesel",175.25
+"157",2013,"Jaguar Cars","Automatic","Diesel",149.5
+"158",2000,"Kia","Automatic","Diesel",240
+"159",2001,"Kia","Automatic","Diesel",240
+"160",2002,"Kia","Automatic","Diesel",235
+"161",2003,"Kia","Automatic","Diesel",218
+"162",2004,"Kia","Automatic","Diesel",226
+"163",2005,"Kia","Automatic","Diesel",216
+"164",2006,"Kia","Automatic","Diesel",218
+"165",2007,"Kia","Automatic","Diesel",207.2
+"166",2008,"Kia","Automatic","Diesel",198.75
+"167",2009,"Kia","Automatic","Diesel",188.7
+"168",2010,"Kia","Automatic","Diesel",180.888888888889
+"169",2011,"Kia","Automatic","Diesel",175.75
+"170",2012,"Kia","Automatic","Diesel",172.4
+"171",2013,"Kia","Automatic","Diesel",163.619047619048
+"172",2000,"Land Rover","Automatic","Diesel",294
+"173",2001,"Land Rover","Automatic","Diesel",276
+"174",2002,"Land Rover","Automatic","Diesel",282.2
+"175",2003,"Land Rover","Automatic","Diesel",274.333333333333
+"176",2004,"Land Rover","Automatic","Diesel",269.4
+"177",2005,"Land Rover","Automatic","Diesel",271.25
+"178",2006,"Land Rover","Automatic","Diesel",265
+"179",2007,"Land Rover","Automatic","Diesel",266.1
+"180",2008,"Land Rover","Automatic","Diesel",261.833333333333
+"181",2009,"Land Rover","Automatic","Diesel",249.875
+"182",2010,"Land Rover","Automatic","Diesel",249.1
+"183",2011,"Land Rover","Automatic","Diesel",229.736842105263
+"184",2012,"Land Rover","Automatic","Diesel",217
+"185",2013,"Land Rover","Automatic","Diesel",204.625
+"186",2000,"LTI","Automatic","Diesel",244
+"187",2001,"LTI","Automatic","Diesel",244
+"188",2002,"LTI","Automatic","Diesel",243.5
+"189",2003,"LTI","Automatic","Diesel",243
+"190",2004,"LTI","Automatic","Diesel",243
+"191",2005,"LTI","Automatic","Diesel",243
+"192",2006,"LTI","Automatic","Diesel",243
+"193",2007,"LTI","Automatic","Diesel",243
+"194",2008,"LTI","Automatic","Diesel",233
+"195",2009,"LTI","Automatic","Diesel",233
+"196",2010,"LTI","Automatic","Diesel",234
+"197",2011,"LTI","Automatic","Diesel",233
+"198",2012,"LTI","Automatic","Diesel",222
+"199",2013,"LTI","Automatic","Diesel",222
+"200",2003,"Mazda","Automatic","Diesel",119
+"201",2004,"Mazda","Automatic","Diesel",119
+"202",2005,"Mazda","Automatic","Diesel",119
+"203",2006,"Mazda","Automatic","Diesel",119
+"204",2012,"Mazda","Automatic","Diesel",142.333333333333
+"205",2000,"Mercedes-Benz","Automatic","Diesel",205.833333333333
+"206",2001,"Mercedes-Benz","Automatic","Diesel",195.190476190476
+"207",2002,"Mercedes-Benz","Automatic","Diesel",189.321428571429
+"208",2003,"Mercedes-Benz","Automatic","Diesel",182.137931034483
+"209",2004,"Mercedes-Benz","Automatic","Diesel",183.9875
+"210",2005,"Mercedes-Benz","Automatic","Diesel",185.118811881188
+"211",2006,"Mercedes-Benz","Automatic","Diesel",188.390625
+"212",2007,"Mercedes-Benz","Automatic","Diesel",194.744525547445
+"213",2008,"Mercedes-Benz","Automatic","Diesel",193.279069767442
+"214",2009,"Mercedes-Benz","Automatic","Diesel",190.722222222222
+"215",2010,"Mercedes-Benz","Automatic","Diesel",190.537549407115
+"216",2011,"Mercedes-Benz","Automatic","Diesel",169.876712328767
+"217",2012,"Mercedes-Benz","Automatic","Diesel",161.660714285714
+"218",2013,"Mercedes-Benz","Automatic","Diesel",150.475524475524
+"219",2000,"Metrocab","Automatic","Diesel",260
+"220",2001,"Metrocab","Automatic","Diesel",260
+"221",2002,"Metrocab","Automatic","Diesel",260
+"222",2003,"Metrocab","Automatic","Diesel",284
+"223",2004,"Metrocab","Automatic","Diesel",284
+"224",2005,"Metrocab","Automatic","Diesel",284
+"225",2006,"Metrocab","Automatic","Diesel",284
+"226",2007,"Metrocab","Automatic","Diesel",284
+"227",2001,"MG Rover Group","Automatic","Diesel",190
+"228",2002,"MG Rover Group","Automatic","Diesel",190
+"229",2003,"MG Rover Group","Automatic","Diesel",190
+"230",2004,"MG Rover Group","Automatic","Diesel",190
+"231",2005,"MG Rover Group","Automatic","Diesel",190
+"232",2006,"MG Rover Group","Automatic","Diesel",190
+"233",2000,"Micro Compact Car","Automatic","Diesel",90
+"234",2001,"Micro Compact Car","Automatic","Diesel",90
+"235",2008,"Mini","Automatic","Diesel",135
+"236",2009,"Mini","Automatic","Diesel",135
+"237",2010,"Mini","Automatic","Diesel",135
+"238",2011,"Mini","Automatic","Diesel",144.727272727273
+"239",2012,"Mini","Automatic","Diesel",144.583333333333
+"240",2013,"Mini","Automatic","Diesel",147
+"241",2000,"Mitsubishi","Automatic","Diesel",284
+"242",2001,"Mitsubishi","Automatic","Diesel",284
+"243",2002,"Mitsubishi","Automatic","Diesel",280
+"244",2003,"Mitsubishi","Automatic","Diesel",278
+"245",2004,"Mitsubishi","Automatic","Diesel",278
+"246",2005,"Mitsubishi","Automatic","Diesel",225.666666666667
+"247",2006,"Mitsubishi","Automatic","Diesel",225.666666666667
+"248",2007,"Mitsubishi","Automatic","Diesel",264.454545454545
+"249",2008,"Mitsubishi","Automatic","Diesel",261.444444444444
+"250",2009,"Mitsubishi","Automatic","Diesel",261.444444444444
+"251",2010,"Mitsubishi","Automatic","Diesel",261.444444444444
+"252",2011,"Mitsubishi","Automatic","Diesel",217.818181818182
+"253",2012,"Mitsubishi","Automatic","Diesel",213.25
+"254",2013,"Mitsubishi","Automatic","Diesel",206.555555555556
+"255",2000,"Nissan","Automatic","Diesel",285
+"256",2001,"Nissan","Automatic","Diesel",283
+"257",2002,"Nissan","Automatic","Diesel",274.5
+"258",2003,"Nissan","Automatic","Diesel",274.5
+"259",2004,"Nissan","Automatic","Diesel",274.5
+"260",2005,"Nissan","Automatic","Diesel",272
+"261",2006,"Nissan","Automatic","Diesel",272
+"262",2007,"Nissan","Automatic","Diesel",285
+"263",2008,"Nissan","Automatic","Diesel",253.25
+"264",2009,"Nissan","Automatic","Diesel",244.4
+"265",2010,"Nissan","Automatic","Diesel",211.4
+"266",2011,"Nissan","Automatic","Diesel",203.222222222222
+"267",2012,"Nissan","Automatic","Diesel",212
+"268",2013,"Nissan","Automatic","Diesel",199
+"269",2001,"Peugeot","Automatic","Diesel",193
+"270",2002,"Peugeot","Automatic","Diesel",183
+"271",2003,"Peugeot","Automatic","Diesel",185.666666666667
+"272",2004,"Peugeot","Automatic","Diesel",181.333333333333
+"273",2005,"Peugeot","Automatic","Diesel",183.666666666667
+"274",2006,"Peugeot","Automatic","Diesel",201.888888888889
+"275",2007,"Peugeot","Automatic","Diesel",211.2
+"276",2008,"Peugeot","Automatic","Diesel",188.4
+"277",2009,"Peugeot","Automatic","Diesel",188.090909090909
+"278",2010,"Peugeot","Automatic","Diesel",160.7
+"279",2011,"Peugeot","Automatic","Diesel",138.382352941176
+"280",2012,"Peugeot","Automatic","Diesel",132
+"281",2013,"Peugeot","Automatic","Diesel",125.842105263158
+"282",2009,"Porsche","Automatic","Diesel",244
+"283",2010,"Porsche","Automatic","Diesel",244
+"284",2011,"Porsche","Automatic","Diesel",180.75
+"285",2012,"Porsche","Automatic","Diesel",176
+"286",2013,"Porsche","Automatic","Diesel",186.5
+"287",2000,"Renault","Automatic","Diesel",167.8
+"288",2001,"Renault","Automatic","Diesel",166.8
+"289",2002,"Renault","Automatic","Diesel",232
+"290",2003,"Renault","Automatic","Diesel",237.5
+"291",2004,"Renault","Automatic","Diesel",237.5
+"292",2005,"Renault","Automatic","Diesel",211.571428571429
+"293",2006,"Renault","Automatic","Diesel",205.352941176471
+"294",2007,"Renault","Automatic","Diesel",198.2
+"295",2008,"Renault","Automatic","Diesel",188.066666666667
+"296",2009,"Renault","Automatic","Diesel",195.75
+"297",2010,"Renault","Automatic","Diesel",169.705882352941
+"298",2011,"Renault","Automatic","Diesel",160.928571428571
+"299",2012,"Renault","Automatic","Diesel",134.5
+"300",2013,"Renault","Automatic","Diesel",118
+"301",2003,"Saab","Automatic","Diesel",199.5
+"302",2004,"Saab","Automatic","Diesel",199.5
+"303",2005,"Saab","Automatic","Diesel",197.666666666667
+"304",2006,"Saab","Automatic","Diesel",197
+"305",2007,"Saab","Automatic","Diesel",197
+"306",2008,"Saab","Automatic","Diesel",190.461538461538
+"307",2009,"Saab","Automatic","Diesel",186.375
+"308",2010,"Saab","Automatic","Diesel",181.894736842105
+"309",2011,"Saab","Automatic","Diesel",159.888888888889
+"310",2000,"Seat","Automatic","Diesel",211
+"311",2001,"Seat","Automatic","Diesel",205
+"312",2002,"Seat","Automatic","Diesel",211
+"313",2003,"Seat","Automatic","Diesel",205
+"314",2004,"Seat","Automatic","Diesel",205
+"315",2005,"Seat","Automatic","Diesel",180.333333333333
+"316",2006,"Seat","Automatic","Diesel",174.5
+"317",2007,"Seat","Automatic","Diesel",167.333333333333
+"318",2008,"Seat","Automatic","Diesel",165
+"319",2009,"Seat","Automatic","Diesel",164.428571428571
+"320",2010,"Seat","Automatic","Diesel",152.818181818182
+"321",2011,"Seat","Automatic","Diesel",142.272727272727
+"322",2012,"Seat","Automatic","Diesel",141
+"323",2013,"Seat","Automatic","Diesel",142.083333333333
+"324",2001,"Skoda","Automatic","Diesel",174.5
+"325",2002,"Skoda","Automatic","Diesel",185.666666666667
+"326",2003,"Skoda","Automatic","Diesel",191.166666666667
+"327",2004,"Skoda","Automatic","Diesel",188.333333333333
+"328",2005,"Skoda","Automatic","Diesel",177.142857142857
+"329",2006,"Skoda","Automatic","Diesel",177.142857142857
+"330",2007,"Skoda","Automatic","Diesel",162.1
+"331",2008,"Skoda","Automatic","Diesel",162.1
+"332",2009,"Skoda","Automatic","Diesel",161.2
+"333",2010,"Skoda","Automatic","Diesel",157.884615384615
+"334",2011,"Skoda","Automatic","Diesel",152.285714285714
+"335",2012,"Skoda","Automatic","Diesel",152.642857142857
+"336",2013,"Skoda","Automatic","Diesel",142.925925925926
+"337",2005,"Smart","Automatic","Diesel",118.5
+"338",2006,"Smart","Automatic","Diesel",118.5
+"339",2009,"Smart","Automatic","Diesel",88
+"340",2010,"Smart","Automatic","Diesel",88
+"341",2011,"Smart","Automatic","Diesel",86.5
+"342",2012,"Smart","Automatic","Diesel",86.5
+"343",2013,"Smart","Automatic","Diesel",86.6666666666667
+"344",2003,"SsangYong","Automatic","Diesel",302
+"345",2005,"SsangYong","Automatic","Diesel",280.4
+"346",2006,"SsangYong","Automatic","Diesel",258.363636363636
+"347",2007,"SsangYong","Automatic","Diesel",250.941176470588
+"348",2008,"SsangYong","Automatic","Diesel",233.916666666667
+"349",2009,"SsangYong","Automatic","Diesel",235.153846153846
+"350",2010,"SsangYong","Automatic","Diesel",243.4
+"351",2011,"SsangYong","Automatic","Diesel",231.5
+"352",2012,"SsangYong","Automatic","Diesel",234.142857142857
+"353",2013,"SsangYong","Automatic","Diesel",199.5
+"354",2000,"Suzuki","Automatic","Diesel",244
+"355",2001,"Suzuki","Automatic","Diesel",229.5
+"356",2002,"Suzuki","Automatic","Diesel",215
+"357",2003,"Suzuki","Automatic","Diesel",215
+"358",2004,"Suzuki","Automatic","Diesel",215
+"359",2000,"Toyota","Automatic","Diesel",326
+"360",2001,"Toyota","Automatic","Diesel",309.5
+"361",2002,"Toyota","Automatic","Diesel",309.5
+"362",2003,"Toyota","Automatic","Diesel",277.666666666667
+"363",2004,"Toyota","Automatic","Diesel",297
+"364",2005,"Toyota","Automatic","Diesel",217
+"365",2006,"Toyota","Automatic","Diesel",192.5
+"366",2007,"Toyota","Automatic","Diesel",203.6
+"367",2008,"Toyota","Automatic","Diesel",189.5
+"368",2009,"Toyota","Automatic","Diesel",189.5
+"369",2010,"Toyota","Automatic","Diesel",180.384615384615
+"370",2011,"Toyota","Automatic","Diesel",169.214285714286
+"371",2012,"Toyota","Automatic","Diesel",179.666666666667
+"372",2013,"Toyota","Automatic","Diesel",183.222222222222
+"373",2000,"Vauxhall","Automatic","Diesel",228.666666666667
+"374",2001,"Vauxhall","Automatic","Diesel",255.5
+"375",2002,"Vauxhall","Automatic","Diesel",255.5
+"376",2003,"Vauxhall","Automatic","Diesel",196.5
+"377",2004,"Vauxhall","Automatic","Diesel",204.916666666667
+"378",2005,"Vauxhall","Automatic","Diesel",196.183333333333
+"379",2006,"Vauxhall","Automatic","Diesel",193.275862068966
+"380",2007,"Vauxhall","Automatic","Diesel",190.714285714286
+"381",2008,"Vauxhall","Automatic","Diesel",192.387096774194
+"382",2009,"Vauxhall","Automatic","Diesel",191.545454545455
+"383",2010,"Vauxhall","Automatic","Diesel",182.428571428571
+"384",2011,"Vauxhall","Automatic","Diesel",177.2
+"385",2012,"Vauxhall","Automatic","Diesel",163.555555555556
+"386",2013,"Vauxhall","Automatic","Diesel",158.115384615385
+"387",2000,"Volkswagen","Automatic","Diesel",202.4
+"388",2001,"Volkswagen","Automatic","Diesel",198.894736842105
+"389",2002,"Volkswagen","Automatic","Diesel",204.0625
+"390",2003,"Volkswagen","Automatic","Diesel",217.323529411765
+"391",2004,"Volkswagen","Automatic","Diesel",213.15
+"392",2005,"Volkswagen","Automatic","Diesel",220.75
+"393",2006,"Volkswagen","Automatic","Diesel",216.433333333333
+"394",2007,"Volkswagen","Automatic","Diesel",198.771428571429
+"395",2008,"Volkswagen","Automatic","Diesel",205.391304347826
+"396",2009,"Volkswagen","Automatic","Diesel",191.772727272727
+"397",2010,"Volkswagen","Automatic","Diesel",183.142857142857
+"398",2011,"Volkswagen","Automatic","Diesel",171.147540983607
+"399",2012,"Volkswagen","Automatic","Diesel",160.976744186047
+"400",2013,"Volkswagen","Automatic","Diesel",155.983050847458
+"401",2000,"Volvo","Automatic","Diesel",196
+"402",2002,"Volvo","Automatic","Diesel",207.666666666667
+"403",2003,"Volvo","Automatic","Diesel",217.133333333333
+"404",2004,"Volvo","Automatic","Diesel",217.133333333333
+"405",2005,"Volvo","Automatic","Diesel",217.5
+"406",2006,"Volvo","Automatic","Diesel",214.444444444444
+"407",2007,"Volvo","Automatic","Diesel",204.428571428571
+"408",2008,"Volvo","Automatic","Diesel",195.315789473684
+"409",2009,"Volvo","Automatic","Diesel",195.173913043478
+"410",2010,"Volvo","Automatic","Diesel",182.722222222222
+"411",2011,"Volvo","Automatic","Diesel",166.659574468085
+"412",2012,"Volvo","Automatic","Diesel",159.518518518519
+"413",2013,"Volvo","Automatic","Diesel",149.438202247191
+"414",2000,"Alfa Romeo","Manual","Diesel",179
+"415",2001,"Alfa Romeo","Manual","Diesel",179
+"416",2002,"Alfa Romeo","Manual","Diesel",177.75
+"417",2003,"Alfa Romeo","Manual","Diesel",163.777777777778
+"418",2004,"Alfa Romeo","Manual","Diesel",163.333333333333
+"419",2005,"Alfa Romeo","Manual","Diesel",162.416666666667
+"420",2006,"Alfa Romeo","Manual","Diesel",167.375
+"421",2007,"Alfa Romeo","Manual","Diesel",168.666666666667
+"422",2008,"Alfa Romeo","Manual","Diesel",173.307692307692
+"423",2009,"Alfa Romeo","Manual","Diesel",164.066666666667
+"424",2010,"Alfa Romeo","Manual","Diesel",151.15
+"425",2011,"Alfa Romeo","Manual","Diesel",124.222222222222
+"426",2012,"Alfa Romeo","Manual","Diesel",112.2
+"427",2013,"Alfa Romeo","Manual","Diesel",112.2
+"428",2000,"Audi","Manual","Diesel",171.666666666667
+"429",2001,"Audi","Manual","Diesel",178.428571428571
+"430",2002,"Audi","Manual","Diesel",177.6
+"431",2003,"Audi","Manual","Diesel",181.6
+"432",2004,"Audi","Manual","Diesel",177.535714285714
+"433",2005,"Audi","Manual","Diesel",180.307692307692
+"434",2006,"Audi","Manual","Diesel",171.966666666667
+"435",2007,"Audi","Manual","Diesel",175.903225806452
+"436",2008,"Audi","Manual","Diesel",166.638888888889
+"437",2009,"Audi","Manual","Diesel",158.081081081081
+"438",2010,"Audi","Manual","Diesel",154.158536585366
+"439",2011,"Audi","Manual","Diesel",140.5
+"440",2012,"Audi","Manual","Diesel",127.897959183673
+"441",2013,"Audi","Manual","Diesel",125.490196078431
+"442",2000,"BMW","Manual","Diesel",175.142857142857
+"443",2001,"BMW","Manual","Diesel",177.625
+"444",2002,"BMW","Manual","Diesel",179.5
+"445",2003,"BMW","Manual","Diesel",176.578947368421
+"446",2004,"BMW","Manual","Diesel",180.5
+"447",2005,"BMW","Manual","Diesel",168.95652173913
+"448",2006,"BMW","Manual","Diesel",168.321428571429
+"449",2007,"BMW","Manual","Diesel",162.277777777778
+"450",2008,"BMW","Manual","Diesel",146.375
+"451",2009,"BMW","Manual","Diesel",144.434782608696
+"452",2010,"BMW","Manual","Diesel",140.430769230769
+"453",2011,"BMW","Manual","Diesel",136.282608695652
+"454",2012,"BMW","Manual","Diesel",133.638888888889
+"455",2013,"BMW","Manual","Diesel",125.775700934579
+"456",2006,"Cadillac","Manual","Diesel",164
+"457",2007,"Cadillac","Manual","Diesel",164
+"458",2008,"Cadillac","Manual","Diesel",160.4
+"459",2009,"Cadillac","Manual","Diesel",159.5
+"460",2010,"Cadillac","Manual","Diesel",159.5
+"461",2007,"Chevrolet","Manual","Diesel",197
+"462",2008,"Chevrolet","Manual","Diesel",187.333333333333
+"463",2009,"Chevrolet","Manual","Diesel",186.666666666667
+"464",2010,"Chevrolet","Manual","Diesel",174.428571428571
+"465",2011,"Chevrolet","Manual","Diesel",168.384615384615
+"466",2012,"Chevrolet","Manual","Diesel",145.4375
+"467",2013,"Chevrolet","Manual","Diesel",127.08
+"468",2000,"Chrysler Jeep","Manual","Diesel",237
+"469",2001,"Chrysler Jeep","Manual","Diesel",225
+"470",2002,"Chrysler Jeep","Manual","Diesel",212.5
+"471",2003,"Chrysler Jeep","Manual","Diesel",213.333333333333
+"472",2004,"Chrysler Jeep","Manual","Diesel",207.142857142857
+"473",2005,"Chrysler Jeep","Manual","Diesel",221
+"474",2006,"Chrysler Jeep","Manual","Diesel",221
+"475",2007,"Chrysler Jeep","Manual","Diesel",210.5
+"476",2008,"Chrysler Jeep","Manual","Diesel",209.5
+"477",2009,"Chrysler Jeep","Manual","Diesel",203.380952380952
+"478",2010,"Chrysler Jeep","Manual","Diesel",221.111111111111
+"479",2011,"Chrysler Jeep","Manual","Diesel",158.166666666667
+"480",2012,"Chrysler Jeep","Manual","Diesel",153.444444444444
+"481",2013,"Chrysler Jeep","Manual","Diesel",147.571428571429
+"482",2000,"Citroen","Manual","Diesel",167.555555555556
+"483",2001,"Citroen","Manual","Diesel",159.230769230769
+"484",2002,"Citroen","Manual","Diesel",153.176470588235
+"485",2003,"Citroen","Manual","Diesel",150.444444444444
+"486",2004,"Citroen","Manual","Diesel",151.285714285714
+"487",2005,"Citroen","Manual","Diesel",144.411764705882
+"488",2006,"Citroen","Manual","Diesel",142.5
+"489",2007,"Citroen","Manual","Diesel",153.103448275862
+"490",2008,"Citroen","Manual","Diesel",153.305555555556
+"491",2009,"Citroen","Manual","Diesel",153.952380952381
+"492",2010,"Citroen","Manual","Diesel",149.121951219512
+"493",2011,"Citroen","Manual","Diesel",137.612244897959
+"494",2012,"Citroen","Manual","Diesel",132.809523809524
+"495",2013,"Citroen","Manual","Diesel",125.90243902439
+"496",2013,"Dacia","Manual","Diesel",117.75
+"497",2000,"Daewoo Cars","Manual","Diesel",251.5
+"498",2001,"Daewoo Cars","Manual","Diesel",251.5
+"499",2002,"Daewoo Cars","Manual","Diesel",237.5
+"500",2000,"Daihatsu","Manual","Diesel",248
+"501",2001,"Daihatsu","Manual","Diesel",244
+"502",2002,"Daihatsu","Manual","Diesel",244
+"503",2007,"Dodge","Manual","Diesel",163.666666666667
+"504",2008,"Dodge","Manual","Diesel",186
+"505",2009,"Dodge","Manual","Diesel",182
+"506",2010,"Dodge","Manual","Diesel",182
+"507",2000,"Fiat","Manual","Diesel",162
+"508",2001,"Fiat","Manual","Diesel",161.25
+"509",2002,"Fiat","Manual","Diesel",160.142857142857
+"510",2003,"Fiat","Manual","Diesel",155.315789473684
+"511",2004,"Fiat","Manual","Diesel",165.8
+"512",2005,"Fiat","Manual","Diesel",153.809523809524
+"513",2006,"Fiat","Manual","Diesel",150.25
+"514",2007,"Fiat","Manual","Diesel",168.857142857143
+"515",2008,"Fiat","Manual","Diesel",161.703703703704
+"516",2009,"Fiat","Manual","Diesel",148.212121212121
+"517",2010,"Fiat","Manual","Diesel",144.28
+"518",2011,"Fiat","Manual","Diesel",141.826086956522
+"519",2012,"Fiat","Manual","Diesel",128.5625
+"520",2013,"Fiat","Manual","Diesel",125.2
+"521",2000,"Ford","Manual","Diesel",192.166666666667
+"522",2001,"Ford","Manual","Diesel",176.297297297297
+"523",2002,"Ford","Manual","Diesel",157.125
+"524",2003,"Ford","Manual","Diesel",151.739130434783
+"525",2004,"Ford","Manual","Diesel",154.641509433962
+"526",2005,"Ford","Manual","Diesel",147.757894736842
+"527",2006,"Ford","Manual","Diesel",153.012658227848
+"528",2007,"Ford","Manual","Diesel",160.05
+"529",2008,"Ford","Manual","Diesel",149.368421052632
+"530",2009,"Ford","Manual","Diesel",148.606837606838
+"531",2010,"Ford","Manual","Diesel",145.166666666667
+"532",2011,"Ford","Manual","Diesel",141.881118881119
+"533",2012,"Ford","Manual","Diesel",132.849315068493
+"534",2013,"Ford","Manual","Diesel",129.642857142857
+"535",2002,"Honda","Manual","Diesel",134
+"536",2003,"Honda","Manual","Diesel",143.333333333333
+"537",2004,"Honda","Manual","Diesel",134
+"538",2005,"Honda","Manual","Diesel",154.555555555556
+"539",2006,"Honda","Manual","Diesel",153.571428571429
+"540",2007,"Honda","Manual","Diesel",149.615384615385
+"541",2008,"Honda","Manual","Diesel",148.5
+"542",2009,"Honda","Manual","Diesel",148.5
+"543",2010,"Honda","Manual","Diesel",146.666666666667
+"544",2011,"Honda","Manual","Diesel",150
+"545",2012,"Honda","Manual","Diesel",145.88
+"546",2013,"Honda","Manual","Diesel",138.416666666667
+"547",2001,"Hyundai","Manual","Diesel",187.666666666667
+"548",2002,"Hyundai","Manual","Diesel",180.25
+"549",2003,"Hyundai","Manual","Diesel",170.571428571429
+"550",2004,"Hyundai","Manual","Diesel",173.2
+"551",2005,"Hyundai","Manual","Diesel",168.375
+"552",2006,"Hyundai","Manual","Diesel",171
+"553",2007,"Hyundai","Manual","Diesel",165.375
+"554",2008,"Hyundai","Manual","Diesel",146.833333333333
+"555",2009,"Hyundai","Manual","Diesel",152.384615384615
+"556",2010,"Hyundai","Manual","Diesel",136.176470588235
+"557",2011,"Hyundai","Manual","Diesel",134.166666666667
+"558",2012,"Hyundai","Manual","Diesel",123.230769230769
+"559",2013,"Hyundai","Manual","Diesel",123.178571428571
+"560",2000,"Isuzu","Manual","Diesel",278
+"561",2001,"Isuzu","Manual","Diesel",278
+"562",2002,"Isuzu","Manual","Diesel",275.333333333333
+"563",2003,"Isuzu","Manual","Diesel",274
+"564",2004,"Isuzu","Manual","Diesel",274
+"565",2005,"Isuzu","Manual","Diesel",274
+"566",2006,"Isuzu","Manual","Diesel",274
+"567",2003,"Jaguar Cars","Manual","Diesel",151.5
+"568",2005,"Jaguar Cars","Manual","Diesel",159.714285714286
+"569",2006,"Jaguar Cars","Manual","Diesel",161.142857142857
+"570",2007,"Jaguar Cars","Manual","Diesel",161.142857142857
+"571",2008,"Jaguar Cars","Manual","Diesel",161.142857142857
+"572",2009,"Jaguar Cars","Manual","Diesel",161.142857142857
+"573",2010,"Jaguar Cars","Manual","Diesel",161.142857142857
+"574",2011,"Jaguar Cars","Manual","Diesel",161.142857142857
+"575",2000,"Kia","Manual","Diesel",222
+"576",2001,"Kia","Manual","Diesel",222
+"577",2002,"Kia","Manual","Diesel",217
+"578",2003,"Kia","Manual","Diesel",194.333333333333
+"579",2004,"Kia","Manual","Diesel",209.333333333333
+"580",2005,"Kia","Manual","Diesel",171.166666666667
+"581",2006,"Kia","Manual","Diesel",164
+"582",2007,"Kia","Manual","Diesel",159.272727272727
+"583",2008,"Kia","Manual","Diesel",157.9375
+"584",2009,"Kia","Manual","Diesel",151.526315789474
+"585",2010,"Kia","Manual","Diesel",138
+"586",2011,"Kia","Manual","Diesel",129.461538461538
+"587",2012,"Kia","Manual","Diesel",125.913793103448
+"588",2013,"Kia","Manual","Diesel",120.164179104478
+"589",2000,"Land Rover","Manual","Diesel",268
+"590",2001,"Land Rover","Manual","Diesel",257.5
+"591",2002,"Land Rover","Manual","Diesel",272.5
+"592",2003,"Land Rover","Manual","Diesel",262
+"593",2004,"Land Rover","Manual","Diesel",262
+"594",2005,"Land Rover","Manual","Diesel",258.75
+"595",2006,"Land Rover","Manual","Diesel",248
+"596",2007,"Land Rover","Manual","Diesel",247.111111111111
+"597",2008,"Land Rover","Manual","Diesel",237.8
+"598",2009,"Land Rover","Manual","Diesel",221
+"599",2010,"Land Rover","Manual","Diesel",223.875
+"600",2011,"Land Rover","Manual","Diesel",194.230769230769
+"601",2012,"Land Rover","Manual","Diesel",146.8
+"602",2013,"Land Rover","Manual","Diesel",146.8
+"603",2006,"Lexus","Manual","Diesel",181.5
+"604",2007,"Lexus","Manual","Diesel",181.5
+"605",2008,"Lexus","Manual","Diesel",181.5
+"606",2009,"Lexus","Manual","Diesel",171.5
+"607",2010,"Lexus","Manual","Diesel",148
+"608",2011,"Lexus","Manual","Diesel",141
+"609",2012,"Lexus","Manual","Diesel",134
+"610",2000,"LTI","Manual","Diesel",223
+"611",2001,"LTI","Manual","Diesel",223
+"612",2002,"LTI","Manual","Diesel",214.5
+"613",2003,"LTI","Manual","Diesel",206
+"614",2004,"LTI","Manual","Diesel",206
+"615",2005,"LTI","Manual","Diesel",206
+"616",2006,"LTI","Manual","Diesel",206
+"617",2007,"LTI","Manual","Diesel",206
+"618",2008,"LTI","Manual","Diesel",212
+"619",2009,"LTI","Manual","Diesel",211
+"620",2010,"LTI","Manual","Diesel",212
+"621",2011,"LTI","Manual","Diesel",212
+"622",2012,"LTI","Manual","Diesel",209
+"623",2013,"LTI","Manual","Diesel",209
+"624",2000,"Mazda","Manual","Diesel",154.25
+"625",2001,"Mazda","Manual","Diesel",161.875
+"626",2002,"Mazda","Manual","Diesel",170.25
+"627",2003,"Mazda","Manual","Diesel",160.769230769231
+"628",2004,"Mazda","Manual","Diesel",163.666666666667
+"629",2005,"Mazda","Manual","Diesel",163.428571428571
+"630",2006,"Mazda","Manual","Diesel",156.363636363636
+"631",2007,"Mazda","Manual","Diesel",149.142857142857
+"632",2008,"Mazda","Manual","Diesel",145.5
+"633",2009,"Mazda","Manual","Diesel",139.666666666667
+"634",2010,"Mazda","Manual","Diesel",140.666666666667
+"635",2011,"Mazda","Manual","Diesel",138.375
+"636",2012,"Mazda","Manual","Diesel",137.705882352941
+"637",2013,"Mazda","Manual","Diesel",127.8
+"638",2000,"Mercedes-Benz","Manual","Diesel",175.714285714286
+"639",2001,"Mercedes-Benz","Manual","Diesel",176.285714285714
+"640",2002,"Mercedes-Benz","Manual","Diesel",179
+"641",2003,"Mercedes-Benz","Manual","Diesel",179.258620689655
+"642",2004,"Mercedes-Benz","Manual","Diesel",176.225
+"643",2005,"Mercedes-Benz","Manual","Diesel",174.086956521739
+"644",2006,"Mercedes-Benz","Manual","Diesel",172.881578947368
+"645",2007,"Mercedes-Benz","Manual","Diesel",163.175
+"646",2008,"Mercedes-Benz","Manual","Diesel",152.742424242424
+"647",2009,"Mercedes-Benz","Manual","Diesel",148.634920634921
+"648",2010,"Mercedes-Benz","Manual","Diesel",145.550724637681
+"649",2011,"Mercedes-Benz","Manual","Diesel",148.514851485149
+"650",2012,"Mercedes-Benz","Manual","Diesel",147.5
+"651",2013,"Mercedes-Benz","Manual","Diesel",143.80198019802
+"652",2000,"Metrocab","Manual","Diesel",235.5
+"653",2001,"Metrocab","Manual","Diesel",235.5
+"654",2002,"Metrocab","Manual","Diesel",235.5
+"655",2003,"Metrocab","Manual","Diesel",257
+"656",2004,"Metrocab","Manual","Diesel",257
+"657",2005,"Metrocab","Manual","Diesel",257
+"658",2006,"Metrocab","Manual","Diesel",257
+"659",2007,"Metrocab","Manual","Diesel",257
+"660",2013,"MG Motors UK","Manual","Diesel",139
+"661",2001,"MG Rover Group","Manual","Diesel",156
+"662",2002,"MG Rover Group","Manual","Diesel",155.2
+"663",2003,"MG Rover Group","Manual","Diesel",156.647058823529
+"664",2004,"MG Rover Group","Manual","Diesel",158.666666666667
+"665",2005,"MG Rover Group","Manual","Diesel",156.647058823529
+"666",2006,"MG Rover Group","Manual","Diesel",156.647058823529
+"667",2003,"Mini","Manual","Diesel",129
+"668",2004,"Mini","Manual","Diesel",129
+"669",2005,"Mini","Manual","Diesel",129
+"670",2006,"Mini","Manual","Diesel",129
+"671",2007,"Mini","Manual","Diesel",118
+"672",2008,"Mini","Manual","Diesel",106.5
+"673",2009,"Mini","Manual","Diesel",106.5
+"674",2010,"Mini","Manual","Diesel",106.5
+"675",2011,"Mini","Manual","Diesel",112.928571428571
+"676",2012,"Mini","Manual","Diesel",113.266666666667
+"677",2013,"Mini","Manual","Diesel",115.526315789474
+"678",2000,"Mitsubishi","Manual","Diesel",231.666666666667
+"679",2001,"Mitsubishi","Manual","Diesel",264.833333333333
+"680",2002,"Mitsubishi","Manual","Diesel",247.733333333333
+"681",2003,"Mitsubishi","Manual","Diesel",192.8
+"682",2004,"Mitsubishi","Manual","Diesel",211.166666666667
+"683",2005,"Mitsubishi","Manual","Diesel",188.8
+"684",2006,"Mitsubishi","Manual","Diesel",207
+"685",2007,"Mitsubishi","Manual","Diesel",226
+"686",2008,"Mitsubishi","Manual","Diesel",195.636363636364
+"687",2009,"Mitsubishi","Manual","Diesel",195.5
+"688",2010,"Mitsubishi","Manual","Diesel",185.761904761905
+"689",2011,"Mitsubishi","Manual","Diesel",183.818181818182
+"690",2012,"Mitsubishi","Manual","Diesel",166.166666666667
+"691",2013,"Mitsubishi","Manual","Diesel",160.8
+"692",2000,"Nissan","Manual","Diesel",224.857142857143
+"693",2001,"Nissan","Manual","Diesel",218.625
+"694",2002,"Nissan","Manual","Diesel",211.8
+"695",2003,"Nissan","Manual","Diesel",196.230769230769
+"696",2004,"Nissan","Manual","Diesel",194.533333333333
+"697",2005,"Nissan","Manual","Diesel",199.214285714286
+"698",2006,"Nissan","Manual","Diesel",185.952380952381
+"699",2007,"Nissan","Manual","Diesel",194.571428571429
+"700",2008,"Nissan","Manual","Diesel",191.4375
+"701",2009,"Nissan","Manual","Diesel",185.15
+"702",2010,"Nissan","Manual","Diesel",165.266666666667
+"703",2011,"Nissan","Manual","Diesel",161.4
+"704",2012,"Nissan","Manual","Diesel",144.230769230769
+"705",2013,"Nissan","Manual","Diesel",141.538461538462
+"706",2000,"Peugeot","Manual","Diesel",158.125
+"707",2001,"Peugeot","Manual","Diesel",154.459459459459
+"708",2002,"Peugeot","Manual","Diesel",151.551724137931
+"709",2003,"Peugeot","Manual","Diesel",151.615384615385
+"710",2004,"Peugeot","Manual","Diesel",152.060606060606
+"711",2005,"Peugeot","Manual","Diesel",145.702702702703
+"712",2006,"Peugeot","Manual","Diesel",146.936170212766
+"713",2007,"Peugeot","Manual","Diesel",157.864864864865
+"714",2008,"Peugeot","Manual","Diesel",153.34693877551
+"715",2009,"Peugeot","Manual","Diesel",151.381818181818
+"716",2010,"Peugeot","Manual","Diesel",145.3
+"717",2011,"Peugeot","Manual","Diesel",132.842857142857
+"718",2012,"Peugeot","Manual","Diesel",127.8
+"719",2013,"Peugeot","Manual","Diesel",124.870967741935
+"720",2000,"Proton","Manual","Diesel",205
+"721",2001,"Proton","Manual","Diesel",205
+"722",2000,"Renault","Manual","Diesel",170.666666666667
+"723",2001,"Renault","Manual","Diesel",164.5
+"724",2002,"Renault","Manual","Diesel",164.48275862069
+"725",2003,"Renault","Manual","Diesel",152.230769230769
+"726",2004,"Renault","Manual","Diesel",163.470588235294
+"727",2005,"Renault","Manual","Diesel",147.58
+"728",2006,"Renault","Manual","Diesel",146.855072463768
+"729",2007,"Renault","Manual","Diesel",151.604166666667
+"730",2008,"Renault","Manual","Diesel",146.5625
+"731",2009,"Renault","Manual","Diesel",147.390625
+"732",2010,"Renault","Manual","Diesel",148.222222222222
+"733",2011,"Renault","Manual","Diesel",140.607142857143
+"734",2012,"Renault","Manual","Diesel",122.333333333333
+"735",2013,"Renault","Manual","Diesel",108.34375
+"736",2000,"Rover Group Limited","Manual","Diesel",160.625
+"737",2000,"Saab","Manual","Diesel",164
+"738",2001,"Saab","Manual","Diesel",164
+"739",2002,"Saab","Manual","Diesel",183.2
+"740",2003,"Saab","Manual","Diesel",184.6
+"741",2004,"Saab","Manual","Diesel",184.6
+"742",2005,"Saab","Manual","Diesel",176.571428571429
+"743",2006,"Saab","Manual","Diesel",162.714285714286
+"744",2007,"Saab","Manual","Diesel",162.714285714286
+"745",2008,"Saab","Manual","Diesel",160.611111111111
+"746",2009,"Saab","Manual","Diesel",158.041666666667
+"747",2010,"Saab","Manual","Diesel",151.173913043478
+"748",2011,"Saab","Manual","Diesel",132.769230769231
+"749",2000,"Seat","Manual","Diesel",146.5
+"750",2001,"Seat","Manual","Diesel",141.142857142857
+"751",2002,"Seat","Manual","Diesel",139.777777777778
+"752",2003,"Seat","Manual","Diesel",144.857142857143
+"753",2004,"Seat","Manual","Diesel",141.769230769231
+"754",2005,"Seat","Manual","Diesel",148.411764705882
+"755",2006,"Seat","Manual","Diesel",148.933333333333
+"756",2007,"Seat","Manual","Diesel",151.411764705882
+"757",2008,"Seat","Manual","Diesel",150
+"758",2009,"Seat","Manual","Diesel",139.777777777778
+"759",2010,"Seat","Manual","Diesel",135.142857142857
+"760",2011,"Seat","Manual","Diesel",125.823529411765
+"761",2012,"Seat","Manual","Diesel",121.148148148148
+"762",2013,"Seat","Manual","Diesel",122.464285714286
+"763",2000,"Skoda","Manual","Diesel",140.2
+"764",2001,"Skoda","Manual","Diesel",137.727272727273
+"765",2002,"Skoda","Manual","Diesel",142.190476190476
+"766",2003,"Skoda","Manual","Diesel",142
+"767",2004,"Skoda","Manual","Diesel",142.590909090909
+"768",2005,"Skoda","Manual","Diesel",144.578947368421
+"769",2006,"Skoda","Manual","Diesel",141.84
+"770",2007,"Skoda","Manual","Diesel",141.038461538462
+"771",2008,"Skoda","Manual","Diesel",138.228571428571
+"772",2009,"Skoda","Manual","Diesel",143.730769230769
+"773",2010,"Skoda","Manual","Diesel",140.638888888889
+"774",2011,"Skoda","Manual","Diesel",129.190476190476
+"775",2012,"Skoda","Manual","Diesel",129.52380952381
+"776",2013,"Skoda","Manual","Diesel",125.809523809524
+"777",2005,"Smart","Manual","Diesel",123.5
+"778",2006,"Smart","Manual","Diesel",123.5
+"779",2003,"SsangYong","Manual","Diesel",244
+"780",2005,"SsangYong","Manual","Diesel",247.4
+"781",2006,"SsangYong","Manual","Diesel",227.8
+"782",2007,"SsangYong","Manual","Diesel",228.4375
+"783",2008,"SsangYong","Manual","Diesel",215.111111111111
+"784",2009,"SsangYong","Manual","Diesel",215.111111111111
+"785",2010,"SsangYong","Manual","Diesel",214
+"786",2011,"SsangYong","Manual","Diesel",193.166666666667
+"787",2012,"SsangYong","Manual","Diesel",194.5
+"788",2013,"SsangYong","Manual","Diesel",162.818181818182
+"789",2008,"Subaru","Manual","Diesel",152.4
+"790",2009,"Subaru","Manual","Diesel",155.8
+"791",2010,"Subaru","Manual","Diesel",160.842105263158
+"792",2011,"Subaru","Manual","Diesel",164.916666666667
+"793",2012,"Subaru","Manual","Diesel",160.090909090909
+"794",2013,"Subaru","Manual","Diesel",159.36
+"795",2000,"Suzuki","Manual","Diesel",224
+"796",2001,"Suzuki","Manual","Diesel",207
+"797",2002,"Suzuki","Manual","Diesel",190
+"798",2003,"Suzuki","Manual","Diesel",194
+"799",2004,"Suzuki","Manual","Diesel",194
+"800",2005,"Suzuki","Manual","Diesel",204
+"801",2006,"Suzuki","Manual","Diesel",161
+"802",2007,"Suzuki","Manual","Diesel",162
+"803",2008,"Suzuki","Manual","Diesel",164.294117647059
+"804",2009,"Suzuki","Manual","Diesel",156.692307692308
+"805",2010,"Suzuki","Manual","Diesel",139.428571428571
+"806",2011,"Suzuki","Manual","Diesel",139.428571428571
+"807",2012,"Suzuki","Manual","Diesel",142.333333333333
+"808",2013,"Suzuki","Manual","Diesel",140.666666666667
+"809",2000,"Tata","Manual","Diesel",244
+"810",2001,"Tata","Manual","Diesel",300
+"811",2002,"Tata","Manual","Diesel",249
+"812",2003,"Tata","Manual","Diesel",249
+"813",2004,"Tata","Manual","Diesel",249
+"814",2005,"Tata","Manual","Diesel",249
+"815",2007,"Tata","Manual","Diesel",249
+"816",2000,"Toyota","Manual","Diesel",229.4
+"817",2001,"Toyota","Manual","Diesel",192.25
+"818",2002,"Toyota","Manual","Diesel",166.647058823529
+"819",2003,"Toyota","Manual","Diesel",176.470588235294
+"820",2004,"Toyota","Manual","Diesel",177.75
+"821",2005,"Toyota","Manual","Diesel",173.6875
+"822",2006,"Toyota","Manual","Diesel",172.4
+"823",2007,"Toyota","Manual","Diesel",173.684210526316
+"824",2008,"Toyota","Manual","Diesel",170.529411764706
+"825",2009,"Toyota","Manual","Diesel",157
+"826",2010,"Toyota","Manual","Diesel",144.294117647059
+"827",2011,"Toyota","Manual","Diesel",145.625
+"828",2012,"Toyota","Manual","Diesel",139
+"829",2013,"Toyota","Manual","Diesel",133.166666666667
+"830",2000,"Vauxhall","Manual","Diesel",175.058823529412
+"831",2001,"Vauxhall","Manual","Diesel",165.4375
+"832",2002,"Vauxhall","Manual","Diesel",168.153846153846
+"833",2003,"Vauxhall","Manual","Diesel",149.8
+"834",2004,"Vauxhall","Manual","Diesel",156.979166666667
+"835",2005,"Vauxhall","Manual","Diesel",148.902255639098
+"836",2006,"Vauxhall","Manual","Diesel",148.077669902913
+"837",2007,"Vauxhall","Manual","Diesel",151.858695652174
+"838",2008,"Vauxhall","Manual","Diesel",153.382352941176
+"839",2009,"Vauxhall","Manual","Diesel",153.675324675325
+"840",2010,"Vauxhall","Manual","Diesel",142.223684210526
+"841",2011,"Vauxhall","Manual","Diesel",128.393442622951
+"842",2012,"Vauxhall","Manual","Diesel",123.794392523364
+"843",2013,"Vauxhall","Manual","Diesel",123.895238095238
+"844",2000,"Volkswagen","Manual","Diesel",164.233333333333
+"845",2001,"Volkswagen","Manual","Diesel",173.153846153846
+"846",2002,"Volkswagen","Manual","Diesel",177.369565217391
+"847",2003,"Volkswagen","Manual","Diesel",193.742268041237
+"848",2004,"Volkswagen","Manual","Diesel",177.92
+"849",2005,"Volkswagen","Manual","Diesel",201.602564102564
+"850",2006,"Volkswagen","Manual","Diesel",198.606382978723
+"851",2007,"Volkswagen","Manual","Diesel",197.333333333333
+"852",2008,"Volkswagen","Manual","Diesel",186.098039215686
+"853",2009,"Volkswagen","Manual","Diesel",175.758865248227
+"854",2010,"Volkswagen","Manual","Diesel",173.202764976959
+"855",2011,"Volkswagen","Manual","Diesel",165.820754716981
+"856",2012,"Volkswagen","Manual","Diesel",156.028776978417
+"857",2013,"Volkswagen","Manual","Diesel",150.133333333333
+"858",2000,"Volvo","Manual","Diesel",156.25
+"859",2001,"Volvo","Manual","Diesel",154.4
+"860",2002,"Volvo","Manual","Diesel",157.6
+"861",2003,"Volvo","Manual","Diesel",167.894736842105
+"862",2004,"Volvo","Manual","Diesel",162.142857142857
+"863",2005,"Volvo","Manual","Diesel",168.545454545455
+"864",2006,"Volvo","Manual","Diesel",171.846153846154
+"865",2007,"Volvo","Manual","Diesel",167
+"866",2008,"Volvo","Manual","Diesel",165.583333333333
+"867",2009,"Volvo","Manual","Diesel",162.481481481481
+"868",2010,"Volvo","Manual","Diesel",147.896551724138
+"869",2011,"Volvo","Manual","Diesel",132.827586206897
+"870",2012,"Volvo","Manual","Diesel",126.71186440678
+"871",2013,"Volvo","Manual","Diesel",123.516129032258
+"872",2012,"Citroen","Automatic","Diesel Electric",103
+"873",2013,"Citroen","Automatic","Diesel Electric",96.5
+"874",2013,"Mercedes-Benz","Automatic","Diesel Electric",114.25
+"875",2012,"Peugeot","Automatic","Diesel Electric",101.25
+"876",2013,"Peugeot","Automatic","Diesel Electric",99.1666666666667
+"877",2013,"Citroen","N/A","Electricity",0
+"878",2013,"Renault","N/A","Electricity",0
+"879",2013,"Smart","N/A","Electricity",0
+"880",2013,"Volvo","N/A","Electricity/Diesel",48
+"881",2013,"Vauxhall","Automatic","Electricity/Petrol",27
+"882",2013,"Chevrolet","N/A","Electricity/Petrol",27
+"883",2013,"Toyota","N/A","Electricity/Petrol",49
+"884",2005,"MG Rover Group","Automatic","LPG",214
+"885",2006,"MG Rover Group","Automatic","LPG",214
+"886",2005,"Mitsubishi","Automatic","LPG",249
+"887",2000,"Vauxhall","Automatic","LPG",198.666666666667
+"888",2002,"Volvo","Automatic","LPG",215
+"889",2003,"Volvo","Automatic","LPG",215
+"890",2004,"Volvo","Automatic","LPG",215
+"891",2005,"Volvo","Automatic","LPG",213
+"892",2003,"Ford","Manual","LPG",169.5
+"893",2004,"Ford","Manual","LPG",171.818181818182
+"894",2005,"Ford","Manual","LPG",169.5
+"895",2003,"Nissan","Manual","LPG",155
+"896",2004,"Nissan","Manual","LPG",155
+"897",2005,"Nissan","Manual","LPG",155
+"898",2006,"Nissan","Manual","LPG",155
+"899",2000,"Vauxhall","Manual","LPG",170.6
+"900",2003,"Vauxhall","Manual","LPG",165
+"901",2004,"Vauxhall","Manual","LPG",157.842105263158
+"902",2005,"Vauxhall","Manual","LPG",162.483870967742
+"903",2001,"Volvo","Manual","LPG",168
+"904",2002,"Volvo","Manual","LPG",181
+"905",2003,"Volvo","Manual","LPG",184.416666666667
+"906",2004,"Volvo","Manual","LPG",184.416666666667
+"907",2005,"Volvo","Manual","LPG",187.666666666667
+"908",2005,"Vauxhall","Manual","LPG / Petrol",167.076923076923
+"909",2011,"Abarth","Automatic","Petrol",151
+"910",2012,"Abarth","Automatic","Petrol",151
+"911",2013,"Abarth","Automatic","Petrol",151
+"912",2000,"Alfa Romeo","Automatic","Petrol",263
+"913",2001,"Alfa Romeo","Automatic","Petrol",257.833333333333
+"914",2002,"Alfa Romeo","Automatic","Petrol",257.25
+"915",2003,"Alfa Romeo","Automatic","Petrol",246.428571428571
+"916",2004,"Alfa Romeo","Automatic","Petrol",261.5
+"917",2005,"Alfa Romeo","Automatic","Petrol",246.428571428571
+"918",2007,"Alfa Romeo","Automatic","Petrol",289.5
+"919",2008,"Alfa Romeo","Automatic","Petrol",287.666666666667
+"920",2009,"Alfa Romeo","Automatic","Petrol",287
+"921",2010,"Alfa Romeo","Automatic","Petrol",287
+"922",2011,"Alfa Romeo","Automatic","Petrol",123.5
+"923",2012,"Alfa Romeo","Automatic","Petrol",123.5
+"924",2013,"Alfa Romeo","Automatic","Petrol",123.5
+"925",2000,"Aston Martin Lagonda","Automatic","Petrol",482
+"926",2001,"Aston Martin Lagonda","Automatic","Petrol",472
+"927",2002,"Aston Martin Lagonda","Automatic","Petrol",472
+"928",2003,"Aston Martin Lagonda","Automatic","Petrol",446
+"929",2004,"Aston Martin Lagonda","Automatic","Petrol",472
+"930",2005,"Aston Martin Lagonda","Automatic","Petrol",446
+"931",2006,"Aston Martin Lagonda","Automatic","Petrol",446
+"932",2007,"Aston Martin Lagonda","Automatic","Petrol",377
+"933",2008,"Aston Martin Lagonda","Automatic","Petrol",370.5
+"934",2009,"Aston Martin Lagonda","Automatic","Petrol",360.166666666667
+"935",2010,"Aston Martin Lagonda","Automatic","Petrol",341.75
+"936",2011,"Aston Martin Lagonda","Automatic","Petrol",303.125
+"937",2012,"Aston Martin Lagonda","Automatic","Petrol",302.666666666667
+"938",2013,"Aston Martin Lagonda","Automatic","Petrol",308.714285714286
+"939",2000,"Audi","Automatic","Petrol",264.375
+"940",2001,"Audi","Automatic","Petrol",264.589743589744
+"941",2002,"Audi","Automatic","Petrol",260.212121212121
+"942",2003,"Audi","Automatic","Petrol",249.681818181818
+"943",2004,"Audi","Automatic","Petrol",267.934782608696
+"944",2005,"Audi","Automatic","Petrol",245.808510638298
+"945",2006,"Audi","Automatic","Petrol",233.168421052632
+"946",2007,"Audi","Automatic","Petrol",236.661016949153
+"947",2008,"Audi","Automatic","Petrol",231.371428571429
+"948",2009,"Audi","Automatic","Petrol",217.9
+"949",2010,"Audi","Automatic","Petrol",216.308270676692
+"950",2011,"Audi","Automatic","Petrol",194.1
+"951",2012,"Audi","Automatic","Petrol",185.661971830986
+"952",2013,"Audi","Automatic","Petrol",187.269662921348
+"953",2003,"Bentley Motors","Automatic","Petrol",473.75
+"954",2004,"Bentley Motors","Automatic","Petrol",471.166666666667
+"955",2005,"Bentley Motors","Automatic","Petrol",463.6
+"956",2006,"Bentley Motors","Automatic","Petrol",468.833333333333
+"957",2007,"Bentley Motors","Automatic","Petrol",441.428571428571
+"958",2008,"Bentley Motors","Automatic","Petrol",428.25
+"959",2009,"Bentley Motors","Automatic","Petrol",433.153846153846
+"960",2010,"Bentley Motors","Automatic","Petrol",433.153846153846
+"961",2011,"Bentley Motors","Automatic","Petrol",393
+"962",2012,"Bentley Motors","Automatic","Petrol",297.666666666667
+"963",2013,"Bentley Motors","Automatic","Petrol",325.75
+"964",2000,"BMW","Automatic","Petrol",256.771428571429
+"965",2001,"BMW","Automatic","Petrol",255.027027027027
+"966",2002,"BMW","Automatic","Petrol",241.131578947368
+"967",2003,"BMW","Automatic","Petrol",248.524590163934
+"968",2004,"BMW","Automatic","Petrol",247.813953488372
+"969",2005,"BMW","Automatic","Petrol",243.844155844156
+"970",2006,"BMW","Automatic","Petrol",243.735849056604
+"971",2007,"BMW","Automatic","Petrol",229.768115942029
+"972",2008,"BMW","Automatic","Petrol",224.424657534247
+"973",2009,"BMW","Automatic","Petrol",212.166666666667
+"974",2010,"BMW","Automatic","Petrol",218.743902439024
+"975",2011,"BMW","Automatic","Petrol",204.741379310345
+"976",2012,"BMW","Automatic","Petrol",194.791208791209
+"977",2013,"BMW","Automatic","Petrol",193.806818181818
+"978",2000,"Cadillac","Automatic","Petrol",330
+"979",2001,"Cadillac","Automatic","Petrol",321.5
+"980",2002,"Cadillac","Automatic","Petrol",326
+"981",2003,"Cadillac","Automatic","Petrol",326
+"982",2004,"Cadillac","Automatic","Petrol",326
+"983",2006,"Cadillac","Automatic","Petrol",298.153846153846
+"984",2007,"Cadillac","Automatic","Petrol",316.818181818182
+"985",2008,"Cadillac","Automatic","Petrol",286.227272727273
+"986",2009,"Cadillac","Automatic","Petrol",270.833333333333
+"987",2010,"Cadillac","Automatic","Petrol",270.833333333333
+"988",2000,"Chevrolet","Automatic","Petrol",307.833333333333
+"989",2001,"Chevrolet","Automatic","Petrol",301.333333333333
+"990",2002,"Chevrolet","Automatic","Petrol",304.6
+"991",2003,"Chevrolet","Automatic","Petrol",304.6
+"992",2004,"Chevrolet","Automatic","Petrol",304.6
+"993",2005,"Chevrolet","Automatic","Petrol",214.5
+"994",2006,"Chevrolet","Automatic","Petrol",200.222222222222
+"995",2007,"Chevrolet","Automatic","Petrol",183.5
+"996",2008,"Chevrolet","Automatic","Petrol",182
+"997",2009,"Chevrolet","Automatic","Petrol",180.666666666667
+"998",2010,"Chevrolet","Automatic","Petrol",174.6
+"999",2011,"Chevrolet","Automatic","Petrol",178.142857142857
+"1000",2012,"Chevrolet","Automatic","Petrol",183.636363636364
+"1001",2013,"Chevrolet","Automatic","Petrol",199.153846153846
+"1002",2000,"Chrysler Jeep","Automatic","Petrol",303.75
+"1003",2001,"Chrysler Jeep","Automatic","Petrol",300.777777777778
+"1004",2002,"Chrysler Jeep","Automatic","Petrol",312.153846153846
+"1005",2003,"Chrysler Jeep","Automatic","Petrol",302.153846153846
+"1006",2004,"Chrysler Jeep","Automatic","Petrol",316.578947368421
+"1007",2005,"Chrysler Jeep","Automatic","Petrol",285.538461538462
+"1008",2006,"Chrysler Jeep","Automatic","Petrol",294.705882352941
+"1009",2007,"Chrysler Jeep","Automatic","Petrol",286.625
+"1010",2008,"Chrysler Jeep","Automatic","Petrol",280.304347826087
+"1011",2009,"Chrysler Jeep","Automatic","Petrol",285.860465116279
+"1012",2010,"Chrysler Jeep","Automatic","Petrol",296.133333333333
+"1013",2011,"Chrysler Jeep","Automatic","Petrol",268.875
+"1014",2012,"Chrysler Jeep","Automatic","Petrol",257.533333333333
+"1015",2013,"Chrysler Jeep","Automatic","Petrol",262.769230769231
+"1016",2000,"Citroen","Automatic","Petrol",236.230769230769
+"1017",2001,"Citroen","Automatic","Petrol",200.857142857143
+"1018",2002,"Citroen","Automatic","Petrol",204.333333333333
+"1019",2003,"Citroen","Automatic","Petrol",192.25
+"1020",2004,"Citroen","Automatic","Petrol",201.5
+"1021",2005,"Citroen","Automatic","Petrol",177.090909090909
+"1022",2006,"Citroen","Automatic","Petrol",182.285714285714
+"1023",2007,"Citroen","Automatic","Petrol",187.9375
+"1024",2008,"Citroen","Automatic","Petrol",189.055555555556
+"1025",2009,"Citroen","Automatic","Petrol",181
+"1026",2010,"Citroen","Automatic","Petrol",174.714285714286
+"1027",2011,"Citroen","Automatic","Petrol",151
+"1028",2012,"Citroen","Automatic","Petrol",143.384615384615
+"1029",2013,"Citroen","Automatic","Petrol",146
+"1030",2006,"Corvette","Automatic","Petrol",301
+"1031",2007,"Corvette","Automatic","Petrol",301
+"1032",2008,"Corvette","Automatic","Petrol",313
+"1033",2009,"Corvette","Automatic","Petrol",317
+"1034",2010,"Corvette","Automatic","Petrol",317
+"1035",2012,"Corvette","Automatic","Petrol",293
+"1036",2013,"Corvette","Automatic","Petrol",293
+"1037",2000,"Daewoo Cars","Automatic","Petrol",261.625
+"1038",2001,"Daewoo Cars","Automatic","Petrol",268.714285714286
+"1039",2002,"Daewoo Cars","Automatic","Petrol",273.555555555556
+"1040",2003,"Daewoo Cars","Automatic","Petrol",214.5
+"1041",2004,"Daewoo Cars","Automatic","Petrol",221.5
+"1042",2005,"Daewoo Cars","Automatic","Petrol",214.5
+"1043",2000,"Daihatsu","Automatic","Petrol",181
+"1044",2001,"Daihatsu","Automatic","Petrol",171.2
+"1045",2002,"Daihatsu","Automatic","Petrol",161.142857142857
+"1046",2003,"Daihatsu","Automatic","Petrol",158.714285714286
+"1047",2004,"Daihatsu","Automatic","Petrol",158.5
+"1048",2005,"Daihatsu","Automatic","Petrol",158
+"1049",2006,"Daihatsu","Automatic","Petrol",171.75
+"1050",2007,"Daihatsu","Automatic","Petrol",164
+"1051",2008,"Daihatsu","Automatic","Petrol",168.142857142857
+"1052",2009,"Daihatsu","Automatic","Petrol",172.2
+"1053",2010,"Daihatsu","Automatic","Petrol",172.2
+"1054",2007,"Dodge","Automatic","Petrol",201.5
+"1055",2008,"Dodge","Automatic","Petrol",228.333333333333
+"1056",2009,"Dodge","Automatic","Petrol",226.5
+"1057",2010,"Dodge","Automatic","Petrol",236.5
+"1058",2000,"Ferrari","Automatic","Petrol",520
+"1059",2001,"Ferrari","Automatic","Petrol",570
+"1060",2002,"Ferrari","Automatic","Petrol",570
+"1061",2003,"Ferrari","Automatic","Petrol",570
+"1062",2004,"Ferrari","Automatic","Petrol",570
+"1063",2000,"Fiat","Automatic","Petrol",186.333333333333
+"1064",2001,"Fiat","Automatic","Petrol",184.666666666667
+"1065",2002,"Fiat","Automatic","Petrol",199.166666666667
+"1066",2003,"Fiat","Automatic","Petrol",184.333333333333
+"1067",2004,"Fiat","Automatic","Petrol",201.6
+"1068",2005,"Fiat","Automatic","Petrol",179.857142857143
+"1069",2006,"Fiat","Automatic","Petrol",169.666666666667
+"1070",2007,"Fiat","Automatic","Petrol",130.5
+"1071",2008,"Fiat","Automatic","Petrol",129.75
+"1072",2009,"Fiat","Automatic","Petrol",130.125
+"1073",2010,"Fiat","Automatic","Petrol",126.428571428571
+"1074",2011,"Fiat","Automatic","Petrol",114
+"1075",2012,"Fiat","Automatic","Petrol",104.75
+"1076",2013,"Fiat","Automatic","Petrol",104.75
+"1077",2000,"Ford","Automatic","Petrol",220.592592592593
+"1078",2001,"Ford","Automatic","Petrol",229.033333333333
+"1079",2002,"Ford","Automatic","Petrol",232.1
+"1080",2003,"Ford","Automatic","Petrol",211.279069767442
+"1081",2004,"Ford","Automatic","Petrol",208.172413793103
+"1082",2005,"Ford","Automatic","Petrol",204.836734693878
+"1083",2006,"Ford","Automatic","Petrol",211.552631578947
+"1084",2007,"Ford","Automatic","Petrol",204.1875
+"1085",2008,"Ford","Automatic","Petrol",191.8
+"1086",2009,"Ford","Automatic","Petrol",196.576923076923
+"1087",2010,"Ford","Automatic","Petrol",195.862068965517
+"1088",2011,"Ford","Automatic","Petrol",195.864864864865
+"1089",2012,"Ford","Automatic","Petrol",178.565217391304
+"1090",2013,"Ford","Automatic","Petrol",169.958333333333
+"1091",2000,"Honda","Automatic","Petrol",221.954545454545
+"1092",2001,"Honda","Automatic","Petrol",220.344827586207
+"1093",2002,"Honda","Automatic","Petrol",215.757575757576
+"1094",2003,"Honda","Automatic","Petrol",207.52380952381
+"1095",2004,"Honda","Automatic","Petrol",210.06976744186
+"1096",2005,"Honda","Automatic","Petrol",204.105263157895
+"1097",2006,"Honda","Automatic","Petrol",187.35
+"1098",2007,"Honda","Automatic","Petrol",185.125
+"1099",2008,"Honda","Automatic","Petrol",181.230769230769
+"1100",2009,"Honda","Automatic","Petrol",181.230769230769
+"1101",2010,"Honda","Automatic","Petrol",164.290322580645
+"1102",2011,"Honda","Automatic","Petrol",163.5
+"1103",2012,"Honda","Automatic","Petrol",165.264705882353
+"1104",2013,"Honda","Automatic","Petrol",165.375
+"1105",2007,"Hummer","Automatic","Petrol",346
+"1106",2008,"Hummer","Automatic","Petrol",346
+"1107",2009,"Hummer","Automatic","Petrol",346
+"1108",2010,"Hummer","Automatic","Petrol",346
+"1109",2000,"Hyundai","Automatic","Petrol",207.9
+"1110",2001,"Hyundai","Automatic","Petrol",224.538461538462
+"1111",2002,"Hyundai","Automatic","Petrol",223.6875
+"1112",2003,"Hyundai","Automatic","Petrol",225.25
+"1113",2004,"Hyundai","Automatic","Petrol",217.45
+"1114",2005,"Hyundai","Automatic","Petrol",217.25
+"1115",2006,"Hyundai","Automatic","Petrol",211.416666666667
+"1116",2007,"Hyundai","Automatic","Petrol",206.928571428571
+"1117",2008,"Hyundai","Automatic","Petrol",196
+"1118",2009,"Hyundai","Automatic","Petrol",174.818181818182
+"1119",2010,"Hyundai","Automatic","Petrol",158.666666666667
+"1120",2011,"Hyundai","Automatic","Petrol",152.285714285714
+"1121",2012,"Hyundai","Automatic","Petrol",146.285714285714
+"1122",2013,"Hyundai","Automatic","Petrol",148.166666666667
+"1123",2010,"Infiniti","Automatic","Petrol",266.428571428571
+"1124",2011,"Infiniti","Automatic","Petrol",262.5
+"1125",2012,"Infiniti","Automatic","Petrol",262.5
+"1126",2013,"Infiniti","Automatic","Petrol",252.714285714286
+"1127",2000,"Isuzu","Automatic","Petrol",358
+"1128",2001,"Isuzu","Automatic","Petrol",358
+"1129",2002,"Isuzu","Automatic","Petrol",351.666666666667
+"1130",2003,"Isuzu","Automatic","Petrol",348.5
+"1131",2004,"Isuzu","Automatic","Petrol",348.5
+"1132",2005,"Isuzu","Automatic","Petrol",348.5
+"1133",2006,"Isuzu","Automatic","Petrol",348.5
+"1134",2000,"Jaguar Cars","Automatic","Petrol",290.04
+"1135",2001,"Jaguar Cars","Automatic","Petrol",287.851851851852
+"1136",2002,"Jaguar Cars","Automatic","Petrol",284.59375
+"1137",2003,"Jaguar Cars","Automatic","Petrol",269
+"1138",2004,"Jaguar Cars","Automatic","Petrol",272.75
+"1139",2005,"Jaguar Cars","Automatic","Petrol",269
+"1140",2006,"Jaguar Cars","Automatic","Petrol",269.4
+"1141",2007,"Jaguar Cars","Automatic","Petrol",271.947368421053
+"1142",2008,"Jaguar Cars","Automatic","Petrol",271.947368421053
+"1143",2009,"Jaguar Cars","Automatic","Petrol",273.107142857143
+"1144",2010,"Jaguar Cars","Automatic","Petrol",273.333333333333
+"1145",2011,"Jaguar Cars","Automatic","Petrol",273.333333333333
+"1146",2012,"Jaguar Cars","Automatic","Petrol",277.625
+"1147",2013,"Jaguar Cars","Automatic","Petrol",243.166666666667
+"1148",2000,"Kia","Automatic","Petrol",239.666666666667
+"1149",2001,"Kia","Automatic","Petrol",232.769230769231
+"1150",2002,"Kia","Automatic","Petrol",234.428571428571
+"1151",2003,"Kia","Automatic","Petrol",242
+"1152",2004,"Kia","Automatic","Petrol",237.666666666667
+"1153",2005,"Kia","Automatic","Petrol",207.5
+"1154",2006,"Kia","Automatic","Petrol",204.428571428571
+"1155",2007,"Kia","Automatic","Petrol",187.166666666667
+"1156",2008,"Kia","Automatic","Petrol",191.7
+"1157",2009,"Kia","Automatic","Petrol",183.777777777778
+"1158",2010,"Kia","Automatic","Petrol",162.857142857143
+"1159",2011,"Kia","Automatic","Petrol",158.285714285714
+"1160",2012,"Kia","Automatic","Petrol",150.6
+"1161",2013,"Kia","Automatic","Petrol",148.764705882353
+"1162",2008,"Lamborghini","Automatic","Petrol",325
+"1163",2009,"Lamborghini","Automatic","Petrol",327.5
+"1164",2010,"Lamborghini","Automatic","Petrol",327.5
+"1165",2011,"Lamborghini","Automatic","Petrol",327.5
+"1166",2000,"Land Rover","Automatic","Petrol",393.333333333333
+"1167",2001,"Land Rover","Automatic","Petrol",369.5
+"1168",2002,"Land Rover","Automatic","Petrol",377.333333333333
+"1169",2003,"Land Rover","Automatic","Petrol",361.333333333333
+"1170",2004,"Land Rover","Automatic","Petrol",355.8
+"1171",2005,"Land Rover","Automatic","Petrol",356.428571428571
+"1172",2006,"Land Rover","Automatic","Petrol",356.428571428571
+"1173",2007,"Land Rover","Automatic","Petrol",338.714285714286
+"1174",2008,"Land Rover","Automatic","Petrol",345.5
+"1175",2009,"Land Rover","Automatic","Petrol",332.571428571429
+"1176",2010,"Land Rover","Automatic","Petrol",333.75
+"1177",2011,"Land Rover","Automatic","Petrol",318.5
+"1178",2012,"Land Rover","Automatic","Petrol",316.363636363636
+"1179",2013,"Land Rover","Automatic","Petrol",273.25
+"1180",2000,"Lexus","Automatic","Petrol",267.333333333333
+"1181",2001,"Lexus","Automatic","Petrol",281.8
+"1182",2002,"Lexus","Automatic","Petrol",278
+"1183",2003,"Lexus","Automatic","Petrol",272.5
+"1184",2004,"Lexus","Automatic","Petrol",274.875
+"1185",2005,"Lexus","Automatic","Petrol",263
+"1186",2006,"Lexus","Automatic","Petrol",258
+"1187",2007,"Lexus","Automatic","Petrol",251.5
+"1188",2008,"Lexus","Automatic","Petrol",252.571428571429
+"1189",2009,"Lexus","Automatic","Petrol",235.285714285714
+"1190",2010,"Lexus","Automatic","Petrol",250
+"1191",2011,"Lexus","Automatic","Petrol",250.571428571429
+"1192",2012,"Lexus","Automatic","Petrol",252.6
+"1193",2013,"Lexus","Automatic","Petrol",184.916666666667
+"1194",2013,"Lotus","Automatic","Petrol",217
+"1195",2000,"Maserati","Automatic","Petrol",414.333333333333
+"1196",2001,"Maserati","Automatic","Petrol",420
+"1197",2002,"Maserati","Automatic","Petrol",420
+"1198",2004,"Maserati","Automatic","Petrol",420
+"1199",2007,"Maserati","Automatic","Petrol",340
+"1200",2008,"Maserati","Automatic","Petrol",335
+"1201",2009,"Maserati","Automatic","Petrol",350
+"1202",2010,"Maserati","Automatic","Petrol",352
+"1203",2011,"Maserati","Automatic","Petrol",352
+"1204",2012,"Maserati","Automatic","Petrol",337.857142857143
+"1205",2013,"Maserati","Automatic","Petrol",324.333333333333
+"1206",2000,"Mazda","Automatic","Petrol",212.428571428571
+"1207",2001,"Mazda","Automatic","Petrol",220.866666666667
+"1208",2002,"Mazda","Automatic","Petrol",228.875
+"1209",2003,"Mazda","Automatic","Petrol",203.4
+"1210",2004,"Mazda","Automatic","Petrol",212.9
+"1211",2005,"Mazda","Automatic","Petrol",194.857142857143
+"1212",2006,"Mazda","Automatic","Petrol",202.75
+"1213",2007,"Mazda","Automatic","Petrol",185.2
+"1214",2008,"Mazda","Automatic","Petrol",182.25
+"1215",2009,"Mazda","Automatic","Petrol",183.714285714286
+"1216",2010,"Mazda","Automatic","Petrol",182.571428571429
+"1217",2011,"Mazda","Automatic","Petrol",178.8
+"1218",2012,"Mazda","Automatic","Petrol",173.625
+"1219",2013,"Mazda","Automatic","Petrol",163
+"1220",2012,"McLaren","Automatic","Petrol",279
+"1221",2013,"McLaren","Automatic","Petrol",279
+"1222",2000,"Mercedes-Benz","Automatic","Petrol",265.984375
+"1223",2001,"Mercedes-Benz","Automatic","Petrol",262.037037037037
+"1224",2002,"Mercedes-Benz","Automatic","Petrol",253.480392156863
+"1225",2003,"Mercedes-Benz","Automatic","Petrol",248.668181818182
+"1226",2004,"Mercedes-Benz","Automatic","Petrol",242.048076923077
+"1227",2005,"Mercedes-Benz","Automatic","Petrol",244.844036697248
+"1228",2006,"Mercedes-Benz","Automatic","Petrol",241.975708502024
+"1229",2007,"Mercedes-Benz","Automatic","Petrol",248.798780487805
+"1230",2008,"Mercedes-Benz","Automatic","Petrol",244.876923076923
+"1231",2009,"Mercedes-Benz","Automatic","Petrol",237.576470588235
+"1232",2010,"Mercedes-Benz","Automatic","Petrol",229.106109324759
+"1233",2011,"Mercedes-Benz","Automatic","Petrol",208.294520547945
+"1234",2012,"Mercedes-Benz","Automatic","Petrol",188.82
+"1235",2013,"Mercedes-Benz","Automatic","Petrol",189.348314606742
+"1236",2001,"MG Rover Group","Automatic","Petrol",231.625
+"1237",2002,"MG Rover Group","Automatic","Petrol",222.111111111111
+"1238",2003,"MG Rover Group","Automatic","Petrol",223.074074074074
+"1239",2004,"MG Rover Group","Automatic","Petrol",227
+"1240",2005,"MG Rover Group","Automatic","Petrol",233.238095238095
+"1241",2006,"MG Rover Group","Automatic","Petrol",233.238095238095
+"1242",2000,"Micro Compact Car","Automatic","Petrol",117.3
+"1243",2001,"Micro Compact Car","Automatic","Petrol",120
+"1244",2002,"Micro Compact Car","Automatic","Petrol",115.5
+"1245",2004,"Micro Compact Car","Automatic","Petrol",120.666666666667
+"1246",2002,"Mini","Automatic","Petrol",187
+"1247",2003,"Mini","Automatic","Petrol",187
+"1248",2004,"Mini","Automatic","Petrol",187
+"1249",2005,"Mini","Automatic","Petrol",200
+"1250",2006,"Mini","Automatic","Petrol",200
+"1251",2007,"Mini","Automatic","Petrol",185.714285714286
+"1252",2008,"Mini","Automatic","Petrol",170.428571428571
+"1253",2009,"Mini","Automatic","Petrol",161.5
+"1254",2010,"Mini","Automatic","Petrol",156.235294117647
+"1255",2011,"Mini","Automatic","Petrol",156.333333333333
+"1256",2012,"Mini","Automatic","Petrol",156
+"1257",2013,"Mini","Automatic","Petrol",165.5625
+"1258",2000,"Mitsubishi","Automatic","Petrol",228.15
+"1259",2001,"Mitsubishi","Automatic","Petrol",230.666666666667
+"1260",2002,"Mitsubishi","Automatic","Petrol",238.317073170732
+"1261",2003,"Mitsubishi","Automatic","Petrol",250
+"1262",2004,"Mitsubishi","Automatic","Petrol",244.888888888889
+"1263",2005,"Mitsubishi","Automatic","Petrol",234.142857142857
+"1264",2006,"Mitsubishi","Automatic","Petrol",238.555555555556
+"1265",2007,"Mitsubishi","Automatic","Petrol",238.555555555556
+"1266",2008,"Mitsubishi","Automatic","Petrol",186.2
+"1267",2009,"Mitsubishi","Automatic","Petrol",186.2
+"1268",2010,"Mitsubishi","Automatic","Petrol",192.714285714286
+"1269",2011,"Mitsubishi","Automatic","Petrol",201
+"1270",2012,"Mitsubishi","Automatic","Petrol",127
+"1271",2013,"Mitsubishi","Automatic","Petrol",120.6
+"1272",2008,"Morgan Motor Company","Automatic","Petrol",260
+"1273",2009,"Morgan Motor Company","Automatic","Petrol",260
+"1274",2010,"Morgan Motor Company","Automatic","Petrol",260
+"1275",2011,"Morgan Motor Company","Automatic","Petrol",260
+"1276",2012,"Morgan Motor Company","Automatic","Petrol",256
+"1277",2013,"Morgan Motor Company","Automatic","Petrol",256
+"1278",2000,"Nissan","Automatic","Petrol",209.111111111111
+"1279",2001,"Nissan","Automatic","Petrol",210
+"1280",2002,"Nissan","Automatic","Petrol",203.454545454545
+"1281",2003,"Nissan","Automatic","Petrol",198
+"1282",2004,"Nissan","Automatic","Petrol",198.1
+"1283",2005,"Nissan","Automatic","Petrol",206.818181818182
+"1284",2006,"Nissan","Automatic","Petrol",214.444444444444
+"1285",2007,"Nissan","Automatic","Petrol",198
+"1286",2008,"Nissan","Automatic","Petrol",192
+"1287",2009,"Nissan","Automatic","Petrol",197.846153846154
+"1288",2010,"Nissan","Automatic","Petrol",192.545454545455
+"1289",2011,"Nissan","Automatic","Petrol",192
+"1290",2012,"Nissan","Automatic","Petrol",187.470588235294
+"1291",2013,"Nissan","Automatic","Petrol",193.375
+"1292",2001,"Perodua","Automatic","Petrol",165
+"1293",2002,"Perodua","Automatic","Petrol",159
+"1294",2003,"Perodua","Automatic","Petrol",159
+"1295",2004,"Perodua","Automatic","Petrol",159
+"1296",2005,"Perodua","Automatic","Petrol",159
+"1297",2006,"Perodua","Automatic","Petrol",155
+"1298",2007,"Perodua","Automatic","Petrol",151
+"1299",2008,"Perodua","Automatic","Petrol",151
+"1300",2009,"Perodua","Automatic","Petrol",151
+"1301",2010,"Perodua","Automatic","Petrol",151
+"1302",2011,"Perodua","Automatic","Petrol",151
+"1303",2012,"Perodua","Automatic","Petrol",151
+"1304",2013,"Perodua","Automatic","Petrol",151
+"1305",2000,"Peugeot","Automatic","Petrol",220.916666666667
+"1306",2001,"Peugeot","Automatic","Petrol",211.5
+"1307",2002,"Peugeot","Automatic","Petrol",207.352941176471
+"1308",2003,"Peugeot","Automatic","Petrol",211.875
+"1309",2004,"Peugeot","Automatic","Petrol",209.052631578947
+"1310",2005,"Peugeot","Automatic","Petrol",197.76
+"1311",2006,"Peugeot","Automatic","Petrol",199.44
+"1312",2007,"Peugeot","Automatic","Petrol",193.117647058824
+"1313",2008,"Peugeot","Automatic","Petrol",182.571428571429
+"1314",2009,"Peugeot","Automatic","Petrol",170.533333333333
+"1315",2010,"Peugeot","Automatic","Petrol",166.952380952381
+"1316",2011,"Peugeot","Automatic","Petrol",155.764705882353
+"1317",2012,"Peugeot","Automatic","Petrol",151.214285714286
+"1318",2013,"Peugeot","Automatic","Petrol",152.636363636364
+"1319",2000,"Porsche","Automatic","Petrol",297
+"1320",2001,"Porsche","Automatic","Petrol",295.857142857143
+"1321",2002,"Porsche","Automatic","Petrol",286.333333333333
+"1322",2003,"Porsche","Automatic","Petrol",301.933333333333
+"1323",2004,"Porsche","Automatic","Petrol",299.909090909091
+"1324",2005,"Porsche","Automatic","Petrol",309.466666666667
+"1325",2006,"Porsche","Automatic","Petrol",297.2
+"1326",2007,"Porsche","Automatic","Petrol",290.421052631579
+"1327",2008,"Porsche","Automatic","Petrol",288.24
+"1328",2009,"Porsche","Automatic","Petrol",269.551724137931
+"1329",2010,"Porsche","Automatic","Petrol",261.71875
+"1330",2011,"Porsche","Automatic","Petrol",240.09756097561
+"1331",2012,"Porsche","Automatic","Petrol",238.826086956522
+"1332",2013,"Porsche","Automatic","Petrol",232.361111111111
+"1333",2000,"Proton","Automatic","Petrol",223.846153846154
+"1334",2001,"Proton","Automatic","Petrol",222.258064516129
+"1335",2002,"Proton","Automatic","Petrol",214.285714285714
+"1336",2003,"Proton","Automatic","Petrol",214.285714285714
+"1337",2004,"Proton","Automatic","Petrol",214.285714285714
+"1338",2005,"Proton","Automatic","Petrol",207.333333333333
+"1339",2006,"Proton","Automatic","Petrol",189.6
+"1340",2007,"Proton","Automatic","Petrol",164.75
+"1341",2008,"Proton","Automatic","Petrol",163.8
+"1342",2009,"Proton","Automatic","Petrol",163.8
+"1343",2010,"Proton","Automatic","Petrol",163.8
+"1344",2011,"Proton","Automatic","Petrol",161.75
+"1345",2000,"Renault","Automatic","Petrol",210.133333333333
+"1346",2001,"Renault","Automatic","Petrol",205.214285714286
+"1347",2002,"Renault","Automatic","Petrol",209.130434782609
+"1348",2003,"Renault","Automatic","Petrol",209.31914893617
+"1349",2004,"Renault","Automatic","Petrol",216.21875
+"1350",2005,"Renault","Automatic","Petrol",221.414634146341
+"1351",2006,"Renault","Automatic","Petrol",216.56
+"1352",2007,"Renault","Automatic","Petrol",213.8
+"1353",2008,"Renault","Automatic","Petrol",204.6
+"1354",2009,"Renault","Automatic","Petrol",204.818181818182
+"1355",2010,"Renault","Automatic","Petrol",189.090909090909
+"1356",2011,"Renault","Automatic","Petrol",186.466666666667
+"1357",2012,"Renault","Automatic","Petrol",183.666666666667
+"1358",2013,"Renault","Automatic","Petrol",142
+"1359",2000,"Rolls-Royce","Automatic","Petrol",420.333333333333
+"1360",2001,"Rolls-Royce","Automatic","Petrol",437.714285714286
+"1361",2002,"Rolls-Royce","Automatic","Petrol",450.444444444444
+"1362",2003,"Rolls-Royce","Automatic","Petrol",385
+"1363",2004,"Rolls-Royce","Automatic","Petrol",412.75
+"1364",2005,"Rolls-Royce","Automatic","Petrol",385
+"1365",2006,"Rolls-Royce","Automatic","Petrol",385
+"1366",2007,"Rolls-Royce","Automatic","Petrol",378.5
+"1367",2008,"Rolls-Royce","Automatic","Petrol",378
+"1368",2009,"Rolls-Royce","Automatic","Petrol",377.75
+"1369",2010,"Rolls-Royce","Automatic","Petrol",365.6
+"1370",2011,"Rolls-Royce","Automatic","Petrol",374.555555555556
+"1371",2012,"Rolls-Royce","Automatic","Petrol",337.666666666667
+"1372",2013,"Rolls-Royce","Automatic","Petrol",347.5
+"1373",2000,"Rover Group Limited","Automatic","Petrol",227.733333333333
+"1374",2000,"Saab","Automatic","Petrol",247.785714285714
+"1375",2001,"Saab","Automatic","Petrol",246
+"1376",2002,"Saab","Automatic","Petrol",244.857142857143
+"1377",2003,"Saab","Automatic","Petrol",240.789473684211
+"1378",2004,"Saab","Automatic","Petrol",242.428571428571
+"1379",2005,"Saab","Automatic","Petrol",238.04
+"1380",2006,"Saab","Automatic","Petrol",242.6
+"1381",2007,"Saab","Automatic","Petrol",240.755555555556
+"1382",2008,"Saab","Automatic","Petrol",238.025
+"1383",2009,"Saab","Automatic","Petrol",240.47619047619
+"1384",2010,"Saab","Automatic","Petrol",235.035714285714
+"1385",2011,"Saab","Automatic","Petrol",204
+"1386",2000,"Seat","Automatic","Petrol",221.75
+"1387",2001,"Seat","Automatic","Petrol",215.5
+"1388",2002,"Seat","Automatic","Petrol",215.5
+"1389",2003,"Seat","Automatic","Petrol",215.5
+"1390",2004,"Seat","Automatic","Petrol",215.5
+"1391",2005,"Seat","Automatic","Petrol",207.5
+"1392",2006,"Seat","Automatic","Petrol",207.6
+"1393",2007,"Seat","Automatic","Petrol",196.142857142857
+"1394",2008,"Seat","Automatic","Petrol",196.142857142857
+"1395",2009,"Seat","Automatic","Petrol",179.5
+"1396",2010,"Seat","Automatic","Petrol",158.222222222222
+"1397",2011,"Seat","Automatic","Petrol",145.75
+"1398",2012,"Seat","Automatic","Petrol",141.333333333333
+"1399",2013,"Seat","Automatic","Petrol",143.333333333333
+"1400",2000,"Skoda","Automatic","Petrol",218.75
+"1401",2001,"Skoda","Automatic","Petrol",206.5
+"1402",2002,"Skoda","Automatic","Petrol",210.470588235294
+"1403",2003,"Skoda","Automatic","Petrol",203.933333333333
+"1404",2004,"Skoda","Automatic","Petrol",204.6875
+"1405",2005,"Skoda","Automatic","Petrol",199.6
+"1406",2006,"Skoda","Automatic","Petrol",203.5
+"1407",2007,"Skoda","Automatic","Petrol",198.666666666667
+"1408",2008,"Skoda","Automatic","Petrol",195.272727272727
+"1409",2009,"Skoda","Automatic","Petrol",184.777777777778
+"1410",2010,"Skoda","Automatic","Petrol",173.6
+"1411",2011,"Skoda","Automatic","Petrol",159.954545454545
+"1412",2012,"Skoda","Automatic","Petrol",155.347826086957
+"1413",2013,"Skoda","Automatic","Petrol",153.96875
+"1414",2003,"Smart","Automatic","Petrol",120.666666666667
+"1415",2005,"Smart","Automatic","Petrol",122.588235294118
+"1416",2006,"Smart","Automatic","Petrol",123.297297297297
+"1417",2007,"Smart","Automatic","Petrol",120.307692307692
+"1418",2008,"Smart","Automatic","Petrol",119.08
+"1419",2009,"Smart","Automatic","Petrol",115.636363636364
+"1420",2010,"Smart","Automatic","Petrol",114.869565217391
+"1421",2011,"Smart","Automatic","Petrol",110.2
+"1422",2012,"Smart","Automatic","Petrol",110.2
+"1423",2013,"Smart","Automatic","Petrol",111.555555555556
+"1424",2003,"SsangYong","Automatic","Petrol",352
+"1425",2005,"SsangYong","Automatic","Petrol",352
+"1426",2006,"SsangYong","Automatic","Petrol",352
+"1427",2007,"SsangYong","Automatic","Petrol",352
+"1428",2000,"Subaru","Automatic","Petrol",230.333333333333
+"1429",2001,"Subaru","Automatic","Petrol",232.833333333333
+"1430",2002,"Subaru","Automatic","Petrol",237.1
+"1431",2003,"Subaru","Automatic","Petrol",213.315789473684
+"1432",2004,"Subaru","Automatic","Petrol",228.578947368421
+"1433",2005,"Subaru","Automatic","Petrol",211.461538461538
+"1434",2006,"Subaru","Automatic","Petrol",215.227272727273
+"1435",2007,"Subaru","Automatic","Petrol",225.166666666667
+"1436",2008,"Subaru","Automatic","Petrol",218.666666666667
+"1437",2009,"Subaru","Automatic","Petrol",212.8
+"1438",2010,"Subaru","Automatic","Petrol",203
+"1439",2011,"Subaru","Automatic","Petrol",192
+"1440",2012,"Subaru","Automatic","Petrol",182.266666666667
+"1441",2013,"Subaru","Automatic","Petrol",179.5
+"1442",2000,"Suzuki","Automatic","Petrol",205
+"1443",2001,"Suzuki","Automatic","Petrol",202.666666666667
+"1444",2002,"Suzuki","Automatic","Petrol",202.133333333333
+"1445",2003,"Suzuki","Automatic","Petrol",199.214285714286
+"1446",2004,"Suzuki","Automatic","Petrol",199.214285714286
+"1447",2005,"Suzuki","Automatic","Petrol",201.5
+"1448",2006,"Suzuki","Automatic","Petrol",185.666666666667
+"1449",2007,"Suzuki","Automatic","Petrol",185.142857142857
+"1450",2008,"Suzuki","Automatic","Petrol",184.818181818182
+"1451",2009,"Suzuki","Automatic","Petrol",189.333333333333
+"1452",2010,"Suzuki","Automatic","Petrol",177.5
+"1453",2011,"Suzuki","Automatic","Petrol",170.571428571429
+"1454",2012,"Suzuki","Automatic","Petrol",168.875
+"1455",2013,"Suzuki","Automatic","Petrol",165.625
+"1456",2000,"Toyota","Automatic","Petrol",245.727272727273
+"1457",2001,"Toyota","Automatic","Petrol",232.8125
+"1458",2002,"Toyota","Automatic","Petrol",226.588235294118
+"1459",2003,"Toyota","Automatic","Petrol",220.944444444444
+"1460",2004,"Toyota","Automatic","Petrol",221.75
+"1461",2005,"Toyota","Automatic","Petrol",211.6875
+"1462",2006,"Toyota","Automatic","Petrol",218.916666666667
+"1463",2007,"Toyota","Automatic","Petrol",210.7
+"1464",2008,"Toyota","Automatic","Petrol",191.111111111111
+"1465",2009,"Toyota","Automatic","Petrol",156.75
+"1466",2010,"Toyota","Automatic","Petrol",144.272727272727
+"1467",2011,"Toyota","Automatic","Petrol",146
+"1468",2012,"Toyota","Automatic","Petrol",134.916666666667
+"1469",2013,"Toyota","Automatic","Petrol",137
+"1470",2000,"Vauxhall","Automatic","Petrol",227.103448275862
+"1471",2001,"Vauxhall","Automatic","Petrol",223.75
+"1472",2002,"Vauxhall","Automatic","Petrol",230.05
+"1473",2003,"Vauxhall","Automatic","Petrol",216.947368421053
+"1474",2004,"Vauxhall","Automatic","Petrol",222.721153846154
+"1475",2005,"Vauxhall","Automatic","Petrol",212.868852459016
+"1476",2006,"Vauxhall","Automatic","Petrol",210.924528301887
+"1477",2007,"Vauxhall","Automatic","Petrol",206.166666666667
+"1478",2008,"Vauxhall","Automatic","Petrol",207.888888888889
+"1479",2009,"Vauxhall","Automatic","Petrol",207.472222222222
+"1480",2010,"Vauxhall","Automatic","Petrol",196.357142857143
+"1481",2011,"Vauxhall","Automatic","Petrol",164.75
+"1482",2012,"Vauxhall","Automatic","Petrol",155.323529411765
+"1483",2013,"Vauxhall","Automatic","Petrol",153.44
+"1484",2000,"Volkswagen","Automatic","Petrol",223.736842105263
+"1485",2001,"Volkswagen","Automatic","Petrol",246.903225806452
+"1486",2002,"Volkswagen","Automatic","Petrol",247.870967741935
+"1487",2003,"Volkswagen","Automatic","Petrol",257.545454545455
+"1488",2004,"Volkswagen","Automatic","Petrol",259.758620689655
+"1489",2005,"Volkswagen","Automatic","Petrol",256.4
+"1490",2006,"Volkswagen","Automatic","Petrol",239.789473684211
+"1491",2007,"Volkswagen","Automatic","Petrol",219.378378378378
+"1492",2008,"Volkswagen","Automatic","Petrol",219.633333333333
+"1493",2009,"Volkswagen","Automatic","Petrol",200.590909090909
+"1494",2010,"Volkswagen","Automatic","Petrol",188.315789473684
+"1495",2011,"Volkswagen","Automatic","Petrol",170.945945945946
+"1496",2012,"Volkswagen","Automatic","Petrol",162.56862745098
+"1497",2013,"Volkswagen","Automatic","Petrol",160.507936507937
+"1498",2000,"Volvo","Automatic","Petrol",241.3125
+"1499",2001,"Volvo","Automatic","Petrol",242.809523809524
+"1500",2002,"Volvo","Automatic","Petrol",242.604166666667
+"1501",2003,"Volvo","Automatic","Petrol",243.704545454545
+"1502",2004,"Volvo","Automatic","Petrol",244.720930232558
+"1503",2005,"Volvo","Automatic","Petrol",246.486486486486
+"1504",2006,"Volvo","Automatic","Petrol",247.151515151515
+"1505",2007,"Volvo","Automatic","Petrol",246.7
+"1506",2008,"Volvo","Automatic","Petrol",250.076923076923
+"1507",2009,"Volvo","Automatic","Petrol",255.590909090909
+"1508",2010,"Volvo","Automatic","Petrol",250
+"1509",2011,"Volvo","Automatic","Petrol",210.923076923077
+"1510",2012,"Volvo","Automatic","Petrol",207.787878787879
+"1511",2013,"Volvo","Automatic","Petrol",202.934782608696
+"1512",2009,"Abarth","Manual","Petrol",157.333333333333
+"1513",2010,"Abarth","Manual","Petrol",157
+"1514",2011,"Abarth","Manual","Petrol",148.5
+"1515",2012,"Abarth","Manual","Petrol",148.5
+"1516",2013,"Abarth","Manual","Petrol",150.666666666667
+"1517",2000,"Alfa Romeo","Manual","Petrol",226.6
+"1518",2001,"Alfa Romeo","Manual","Petrol",232.653846153846
+"1519",2002,"Alfa Romeo","Manual","Petrol",234.72
+"1520",2003,"Alfa Romeo","Manual","Petrol",237.055555555556
+"1521",2004,"Alfa Romeo","Manual","Petrol",242.555555555556
+"1522",2005,"Alfa Romeo","Manual","Petrol",237.055555555556
+"1523",2006,"Alfa Romeo","Manual","Petrol",237.25
+"1524",2007,"Alfa Romeo","Manual","Petrol",235.857142857143
+"1525",2008,"Alfa Romeo","Manual","Petrol",237.434782608696
+"1526",2009,"Alfa Romeo","Manual","Petrol",219.714285714286
+"1527",2010,"Alfa Romeo","Manual","Petrol",203.333333333333
+"1528",2011,"Alfa Romeo","Manual","Petrol",151.111111111111
+"1529",2012,"Alfa Romeo","Manual","Petrol",136.125
+"1530",2013,"Alfa Romeo","Manual","Petrol",136.125
+"1531",2000,"Aston Martin Lagonda","Manual","Petrol",480.5
+"1532",2001,"Aston Martin Lagonda","Manual","Petrol",469
+"1533",2002,"Aston Martin Lagonda","Manual","Petrol",432.5
+"1534",2003,"Aston Martin Lagonda","Manual","Petrol",447
+"1535",2004,"Aston Martin Lagonda","Manual","Petrol",447
+"1536",2005,"Aston Martin Lagonda","Manual","Petrol",442
+"1537",2006,"Aston Martin Lagonda","Manual","Petrol",436
+"1538",2007,"Aston Martin Lagonda","Manual","Petrol",409
+"1539",2008,"Aston Martin Lagonda","Manual","Petrol",382.8
+"1540",2009,"Aston Martin Lagonda","Manual","Petrol",373.666666666667
+"1541",2010,"Aston Martin Lagonda","Manual","Petrol",370
+"1542",2011,"Aston Martin Lagonda","Manual","Petrol",320.5
+"1543",2012,"Aston Martin Lagonda","Manual","Petrol",320.5
+"1544",2013,"Aston Martin Lagonda","Manual","Petrol",339
+"1545",2000,"Audi","Manual","Petrol",227.318181818182
+"1546",2001,"Audi","Manual","Petrol",230.547619047619
+"1547",2002,"Audi","Manual","Petrol",228.2
+"1548",2003,"Audi","Manual","Petrol",221.916666666667
+"1549",2004,"Audi","Manual","Petrol",228.525423728814
+"1550",2005,"Audi","Manual","Petrol",225.82
+"1551",2006,"Audi","Manual","Petrol",213.176470588235
+"1552",2007,"Audi","Manual","Petrol",223.103448275862
+"1553",2008,"Audi","Manual","Petrol",218.542857142857
+"1554",2009,"Audi","Manual","Petrol",202.168316831683
+"1555",2010,"Audi","Manual","Petrol",205.834951456311
+"1556",2011,"Audi","Manual","Petrol",181.741379310345
+"1557",2012,"Audi","Manual","Petrol",173.061224489796
+"1558",2013,"Audi","Manual","Petrol",173.442307692308
+"1559",2000,"BMW","Manual","Petrol",232.121212121212
+"1560",2001,"BMW","Manual","Petrol",237.837837837838
+"1561",2002,"BMW","Manual","Petrol",230.731707317073
+"1562",2003,"BMW","Manual","Petrol",233.852459016393
+"1563",2004,"BMW","Manual","Petrol",231.591836734694
+"1564",2005,"BMW","Manual","Petrol",228.084210526316
+"1565",2006,"BMW","Manual","Petrol",229.189655172414
+"1566",2007,"BMW","Manual","Petrol",208.677966101695
+"1567",2008,"BMW","Manual","Petrol",197.857142857143
+"1568",2009,"BMW","Manual","Petrol",191.37037037037
+"1569",2010,"BMW","Manual","Petrol",196.507936507937
+"1570",2011,"BMW","Manual","Petrol",181.767441860465
+"1571",2012,"BMW","Manual","Petrol",177.533333333333
+"1572",2013,"BMW","Manual","Petrol",182.537037037037
+"1573",2006,"Cadillac","Manual","Petrol",238.6
+"1574",2007,"Cadillac","Manual","Petrol",231.666666666667
+"1575",2008,"Cadillac","Manual","Petrol",226.454545454545
+"1576",2009,"Cadillac","Manual","Petrol",237
+"1577",2010,"Cadillac","Manual","Petrol",237
+"1578",2000,"Chevrolet","Manual","Petrol",313
+"1579",2001,"Chevrolet","Manual","Petrol",323.5
+"1580",2002,"Chevrolet","Manual","Petrol",320.75
+"1581",2003,"Chevrolet","Manual","Petrol",320.75
+"1582",2004,"Chevrolet","Manual","Petrol",320.75
+"1583",2005,"Chevrolet","Manual","Petrol",176.769230769231
+"1584",2006,"Chevrolet","Manual","Petrol",171.717948717949
+"1585",2007,"Chevrolet","Manual","Petrol",166.769230769231
+"1586",2008,"Chevrolet","Manual","Petrol",160.6
+"1587",2009,"Chevrolet","Manual","Petrol",159
+"1588",2010,"Chevrolet","Manual","Petrol",148.153846153846
+"1589",2011,"Chevrolet","Manual","Petrol",148.4
+"1590",2012,"Chevrolet","Manual","Petrol",146.3125
+"1591",2013,"Chevrolet","Manual","Petrol",160.5
+"1592",2000,"Chrysler Jeep","Manual","Petrol",280.714285714286
+"1593",2001,"Chrysler Jeep","Manual","Petrol",270.5
+"1594",2002,"Chrysler Jeep","Manual","Petrol",243
+"1595",2003,"Chrysler Jeep","Manual","Petrol",221.4
+"1596",2004,"Chrysler Jeep","Manual","Petrol",230.076923076923
+"1597",2005,"Chrysler Jeep","Manual","Petrol",244.571428571429
+"1598",2006,"Chrysler Jeep","Manual","Petrol",260.8
+"1599",2007,"Chrysler Jeep","Manual","Petrol",244.727272727273
+"1600",2008,"Chrysler Jeep","Manual","Petrol",229.888888888889
+"1601",2009,"Chrysler Jeep","Manual","Petrol",220.285714285714
+"1602",2010,"Chrysler Jeep","Manual","Petrol",234.6
+"1603",2011,"Chrysler Jeep","Manual","Petrol",200.6
+"1604",2012,"Chrysler Jeep","Manual","Petrol",186.454545454545
+"1605",2013,"Chrysler Jeep","Manual","Petrol",185.636363636364
+"1606",2000,"Citroen","Manual","Petrol",202.59375
+"1607",2001,"Citroen","Manual","Petrol",180.904761904762
+"1608",2002,"Citroen","Manual","Petrol",176.304347826087
+"1609",2003,"Citroen","Manual","Petrol",174.857142857143
+"1610",2004,"Citroen","Manual","Petrol",176.590909090909
+"1611",2005,"Citroen","Manual","Petrol",173.944444444444
+"1612",2006,"Citroen","Manual","Petrol",165
+"1613",2007,"Citroen","Manual","Petrol",167.5
+"1614",2008,"Citroen","Manual","Petrol",169.782608695652
+"1615",2009,"Citroen","Manual","Petrol",166.48275862069
+"1616",2010,"Citroen","Manual","Petrol",152.565217391304
+"1617",2011,"Citroen","Manual","Petrol",139.909090909091
+"1618",2012,"Citroen","Manual","Petrol",139.7
+"1619",2013,"Citroen","Manual","Petrol",138.035714285714
+"1620",2006,"Corvette","Manual","Petrol",312.333333333333
+"1621",2007,"Corvette","Manual","Petrol",312.333333333333
+"1622",2008,"Corvette","Manual","Petrol",308.888888888889
+"1623",2009,"Corvette","Manual","Petrol",326.833333333333
+"1624",2010,"Corvette","Manual","Petrol",333.25
+"1625",2012,"Corvette","Manual","Petrol",325.833333333333
+"1626",2013,"Corvette","Manual","Petrol",325.833333333333
+"1627",2013,"Dacia","Manual","Petrol",145
+"1628",2000,"Daewoo Cars","Manual","Petrol",205.076923076923
+"1629",2001,"Daewoo Cars","Manual","Petrol",216.535714285714
+"1630",2002,"Daewoo Cars","Manual","Petrol",221.5
+"1631",2003,"Daewoo Cars","Manual","Petrol",175.222222222222
+"1632",2004,"Daewoo Cars","Manual","Petrol",177.416666666667
+"1633",2005,"Daewoo Cars","Manual","Petrol",175.222222222222
+"1634",2000,"Daihatsu","Manual","Petrol",161.8
+"1635",2001,"Daihatsu","Manual","Petrol",152.454545454545
+"1636",2002,"Daihatsu","Manual","Petrol",145.625
+"1637",2003,"Daihatsu","Manual","Petrol",145.75
+"1638",2004,"Daihatsu","Manual","Petrol",143.5
+"1639",2005,"Daihatsu","Manual","Petrol",141.3
+"1640",2006,"Daihatsu","Manual","Petrol",154.285714285714
+"1641",2007,"Daihatsu","Manual","Petrol",147.666666666667
+"1642",2008,"Daihatsu","Manual","Petrol",155.636363636364
+"1643",2009,"Daihatsu","Manual","Petrol",156.625
+"1644",2010,"Daihatsu","Manual","Petrol",156.625
+"1645",2007,"Dodge","Manual","Petrol",282.333333333333
+"1646",2008,"Dodge","Manual","Petrol",283.333333333333
+"1647",2009,"Dodge","Manual","Petrol",222.875
+"1648",2010,"Dodge","Manual","Petrol",187.333333333333
+"1649",2000,"Ferrari","Manual","Petrol",480
+"1650",2001,"Ferrari","Manual","Petrol",483.25
+"1651",2002,"Ferrari","Manual","Petrol",483.25
+"1652",2003,"Ferrari","Manual","Petrol",483.8
+"1653",2004,"Ferrari","Manual","Petrol",483.8
+"1654",2005,"Ferrari","Manual","Petrol",471.8
+"1655",2006,"Ferrari","Manual","Petrol",453.5
+"1656",2007,"Ferrari","Manual","Petrol",451.25
+"1657",2008,"Ferrari","Manual","Petrol",387
+"1658",2009,"Ferrari","Manual","Petrol",372.333333333333
+"1659",2010,"Ferrari","Manual","Petrol",370.571428571429
+"1660",2011,"Ferrari","Manual","Petrol",328.833333333333
+"1661",2012,"Ferrari","Manual","Petrol",339.125
+"1662",2013,"Ferrari","Manual","Petrol",344.3
+"1663",2000,"Fiat","Manual","Petrol",190.92
+"1664",2001,"Fiat","Manual","Petrol",177.242424242424
+"1665",2002,"Fiat","Manual","Petrol",181.142857142857
+"1666",2003,"Fiat","Manual","Petrol",174.851851851852
+"1667",2004,"Fiat","Manual","Petrol",177.904761904762
+"1668",2005,"Fiat","Manual","Petrol",174.884615384615
+"1669",2006,"Fiat","Manual","Petrol",165.263157894737
+"1670",2007,"Fiat","Manual","Petrol",157.846153846154
+"1671",2008,"Fiat","Manual","Petrol",155
+"1672",2009,"Fiat","Manual","Petrol",149.653846153846
+"1673",2010,"Fiat","Manual","Petrol",144.652173913043
+"1674",2011,"Fiat","Manual","Petrol",140.3125
+"1675",2012,"Fiat","Manual","Petrol",129
+"1676",2013,"Fiat","Manual","Petrol",126.375
+"1677",2000,"Ford","Manual","Petrol",194.872093023256
+"1678",2001,"Ford","Manual","Petrol",192.727272727273
+"1679",2002,"Ford","Manual","Petrol",189.147540983607
+"1680",2003,"Ford","Manual","Petrol",188.270833333333
+"1681",2004,"Ford","Manual","Petrol",185.416666666667
+"1682",2005,"Ford","Manual","Petrol",184.729508196721
+"1683",2006,"Ford","Manual","Petrol",184.468085106383
+"1684",2007,"Ford","Manual","Petrol",185
+"1685",2008,"Ford","Manual","Petrol",171.025
+"1686",2009,"Ford","Manual","Petrol",173.014705882353
+"1687",2010,"Ford","Manual","Petrol",173.046153846154
+"1688",2011,"Ford","Manual","Petrol",169.384615384615
+"1689",2012,"Ford","Manual","Petrol",151.621621621622
+"1690",2013,"Ford","Manual","Petrol",137.61038961039
+"1691",2000,"Honda","Manual","Petrol",199.236363636364
+"1692",2001,"Honda","Manual","Petrol",201.361111111111
+"1693",2002,"Honda","Manual","Petrol",190.808510638298
+"1694",2003,"Honda","Manual","Petrol",188.548387096774
+"1695",2004,"Honda","Manual","Petrol",190.196721311475
+"1696",2005,"Honda","Manual","Petrol",192.5
+"1697",2006,"Honda","Manual","Petrol",184.851851851852
+"1698",2007,"Honda","Manual","Petrol",183.413793103448
+"1699",2008,"Honda","Manual","Petrol",182.366666666667
+"1700",2009,"Honda","Manual","Petrol",182.366666666667
+"1701",2010,"Honda","Manual","Petrol",165.285714285714
+"1702",2011,"Honda","Manual","Petrol",158.489361702128
+"1703",2012,"Honda","Manual","Petrol",156.414634146341
+"1704",2013,"Honda","Manual","Petrol",151.742857142857
+"1705",2007,"Hummer","Manual","Petrol",327
+"1706",2008,"Hummer","Manual","Petrol",327
+"1707",2009,"Hummer","Manual","Petrol",327
+"1708",2010,"Hummer","Manual","Petrol",327
+"1709",2000,"Hyundai","Manual","Petrol",185
+"1710",2001,"Hyundai","Manual","Petrol",187.666666666667
+"1711",2002,"Hyundai","Manual","Petrol",193.133333333333
+"1712",2003,"Hyundai","Manual","Petrol",187.153846153846
+"1713",2004,"Hyundai","Manual","Petrol",183.285714285714
+"1714",2005,"Hyundai","Manual","Petrol",182.066666666667
+"1715",2006,"Hyundai","Manual","Petrol",178.071428571429
+"1716",2007,"Hyundai","Manual","Petrol",172.266666666667
+"1717",2008,"Hyundai","Manual","Petrol",161.473684210526
+"1718",2009,"Hyundai","Manual","Petrol",150.352941176471
+"1719",2010,"Hyundai","Manual","Petrol",140.588235294118
+"1720",2011,"Hyundai","Manual","Petrol",141.034482758621
+"1721",2012,"Hyundai","Manual","Petrol",135.727272727273
+"1722",2013,"Hyundai","Manual","Petrol",137.526315789474
+"1723",2010,"Infiniti","Manual","Petrol",257
+"1724",2011,"Infiniti","Manual","Petrol",257
+"1725",2012,"Infiniti","Manual","Petrol",257
+"1726",2000,"Isuzu","Manual","Petrol",326
+"1727",2001,"Isuzu","Manual","Petrol",326
+"1728",2002,"Isuzu","Manual","Petrol",329
+"1729",2003,"Isuzu","Manual","Petrol",330.5
+"1730",2004,"Isuzu","Manual","Petrol",330.5
+"1731",2005,"Isuzu","Manual","Petrol",330.5
+"1732",2006,"Isuzu","Manual","Petrol",330.5
+"1733",2000,"Jaguar Cars","Manual","Petrol",268
+"1734",2001,"Jaguar Cars","Manual","Petrol",249.333333333333
+"1735",2002,"Jaguar Cars","Manual","Petrol",240.833333333333
+"1736",2003,"Jaguar Cars","Manual","Petrol",235.875
+"1737",2004,"Jaguar Cars","Manual","Petrol",235
+"1738",2005,"Jaguar Cars","Manual","Petrol",235.875
+"1739",2006,"Jaguar Cars","Manual","Petrol",243
+"1740",2007,"Jaguar Cars","Manual","Petrol",243
+"1741",2008,"Jaguar Cars","Manual","Petrol",243
+"1742",2009,"Jaguar Cars","Manual","Petrol",243
+"1743",2010,"Jaguar Cars","Manual","Petrol",243
+"1744",2011,"Jaguar Cars","Manual","Petrol",243
+"1745",2000,"Kia","Manual","Petrol",224
+"1746",2001,"Kia","Manual","Petrol",213
+"1747",2002,"Kia","Manual","Petrol",210.222222222222
+"1748",2003,"Kia","Manual","Petrol",203.25
+"1749",2004,"Kia","Manual","Petrol",202.625
+"1750",2005,"Kia","Manual","Petrol",171
+"1751",2006,"Kia","Manual","Petrol",175
+"1752",2007,"Kia","Manual","Petrol",174.916666666667
+"1753",2008,"Kia","Manual","Petrol",172.933333333333
+"1754",2009,"Kia","Manual","Petrol",162.166666666667
+"1755",2010,"Kia","Manual","Petrol",154.947368421053
+"1756",2011,"Kia","Manual","Petrol",141.2
+"1757",2012,"Kia","Manual","Petrol",131.735849056604
+"1758",2013,"Kia","Manual","Petrol",133.225806451613
+"1759",2000,"Lamborghini","Manual","Petrol",561.2
+"1760",2001,"Lamborghini","Manual","Petrol",551.692307692308
+"1761",2002,"Lamborghini","Manual","Petrol",520
+"1762",2003,"Lamborghini","Manual","Petrol",501.666666666667
+"1763",2004,"Lamborghini","Manual","Petrol",520
+"1764",2005,"Lamborghini","Manual","Petrol",501.666666666667
+"1765",2006,"Lamborghini","Manual","Petrol",481.538461538462
+"1766",2007,"Lamborghini","Manual","Petrol",468.181818181818
+"1767",2008,"Lamborghini","Manual","Petrol",437.888888888889
+"1768",2009,"Lamborghini","Manual","Petrol",415.833333333333
+"1769",2010,"Lamborghini","Manual","Petrol",436.875
+"1770",2011,"Lamborghini","Manual","Petrol",436.875
+"1771",2000,"Land Rover","Manual","Petrol",322.5
+"1772",2001,"Land Rover","Manual","Petrol",297.666666666667
+"1773",2002,"Land Rover","Manual","Petrol",322.5
+"1774",2003,"Land Rover","Manual","Petrol",248
+"1775",2004,"Land Rover","Manual","Petrol",248
+"1776",2005,"Land Rover","Manual","Petrol",248
+"1777",2006,"Land Rover","Manual","Petrol",248
+"1778",2007,"Land Rover","Manual","Petrol",248
+"1779",2000,"Lexus","Manual","Petrol",229
+"1780",2001,"Lexus","Manual","Petrol",229
+"1781",2002,"Lexus","Manual","Petrol",233
+"1782",2003,"Lexus","Manual","Petrol",232
+"1783",2004,"Lexus","Manual","Petrol",232
+"1784",2005,"Lexus","Manual","Petrol",232
+"1785",2006,"Lexus","Manual","Petrol",231
+"1786",2007,"Lexus","Manual","Petrol",231
+"1787",2008,"Lexus","Manual","Petrol",231
+"1788",2009,"Lexus","Manual","Petrol",231
+"1789",2011,"Lexus","Manual","Petrol",227
+"1790",2000,"Lotus","Manual","Petrol",257.875
+"1791",2001,"Lotus","Manual","Petrol",274.076923076923
+"1792",2002,"Lotus","Manual","Petrol",299
+"1793",2003,"Lotus","Manual","Petrol",281.833333333333
+"1794",2004,"Lotus","Manual","Petrol",318.75
+"1795",2005,"Lotus","Manual","Petrol",281.833333333333
+"1796",2006,"Lotus","Manual","Petrol",213
+"1797",2007,"Lotus","Manual","Petrol",209.6
+"1798",2008,"Lotus","Manual","Petrol",209.6
+"1799",2009,"Lotus","Manual","Petrol",209.6
+"1800",2010,"Lotus","Manual","Petrol",209.6
+"1801",2011,"Lotus","Manual","Petrol",195.857142857143
+"1802",2012,"Lotus","Manual","Petrol",195.857142857143
+"1803",2013,"Lotus","Manual","Petrol",210.142857142857
+"1804",2000,"Maserati","Manual","Petrol",410
+"1805",2001,"Maserati","Manual","Petrol",370
+"1806",2002,"Maserati","Manual","Petrol",418
+"1807",2003,"Maserati","Manual","Petrol",430
+"1808",2004,"Maserati","Manual","Petrol",418
+"1809",2005,"Maserati","Manual","Petrol",451.333333333333
+"1810",2006,"Maserati","Manual","Petrol",395.714285714286
+"1811",2007,"Maserati","Manual","Petrol",395.714285714286
+"1812",2008,"Maserati","Manual","Petrol",390
+"1813",2009,"Maserati","Manual","Petrol",385
+"1814",2010,"Maserati","Manual","Petrol",385
+"1815",2011,"Maserati","Manual","Petrol",361
+"1816",2012,"Maserati","Manual","Petrol",348.5
+"1817",2013,"Maserati","Manual","Petrol",348.5
+"1818",2000,"Mazda","Manual","Petrol",193.611111111111
+"1819",2001,"Mazda","Manual","Petrol",197.705882352941
+"1820",2002,"Mazda","Manual","Petrol",199.666666666667
+"1821",2003,"Mazda","Manual","Petrol",194.538461538462
+"1822",2004,"Mazda","Manual","Petrol",191.666666666667
+"1823",2005,"Mazda","Manual","Petrol",195.368421052632
+"1824",2006,"Mazda","Manual","Petrol",196.518518518519
+"1825",2007,"Mazda","Manual","Petrol",194.65
+"1826",2008,"Mazda","Manual","Petrol",186.521739130435
+"1827",2009,"Mazda","Manual","Petrol",180.96875
+"1828",2010,"Mazda","Manual","Petrol",167.928571428571
+"1829",2011,"Mazda","Manual","Petrol",163.973684210526
+"1830",2012,"Mazda","Manual","Petrol",163.1
+"1831",2013,"Mazda","Manual","Petrol",150.25
+"1832",2000,"Mercedes-Benz","Manual","Petrol",229.851851851852
+"1833",2001,"Mercedes-Benz","Manual","Petrol",234.078947368421
+"1834",2002,"Mercedes-Benz","Manual","Petrol",221.575
+"1835",2003,"Mercedes-Benz","Manual","Petrol",218.897435897436
+"1836",2004,"Mercedes-Benz","Manual","Petrol",216.559523809524
+"1837",2005,"Mercedes-Benz","Manual","Petrol",209.392156862745
+"1838",2006,"Mercedes-Benz","Manual","Petrol",206.69918699187
+"1839",2007,"Mercedes-Benz","Manual","Petrol",201.011764705882
+"1840",2008,"Mercedes-Benz","Manual","Petrol",193.310344827586
+"1841",2009,"Mercedes-Benz","Manual","Petrol",174.034090909091
+"1842",2010,"Mercedes-Benz","Manual","Petrol",173.251968503937
+"1843",2011,"Mercedes-Benz","Manual","Petrol",167.214285714286
+"1844",2012,"Mercedes-Benz","Manual","Petrol",157
+"1845",2013,"Mercedes-Benz","Manual","Petrol",149.277777777778
+"1846",2010,"MG Motors Uk","Manual","Petrol",185
+"1847",2011,"MG Motors Uk","Manual","Petrol",184.333333333333
+"1848",2012,"MG Motors Uk","Manual","Petrol",179
+"1849",2013,"MG Motors UK","Manual","Petrol",179
+"1850",2001,"MG Rover Group","Manual","Petrol",186.703703703704
+"1851",2002,"MG Rover Group","Manual","Petrol",189.967741935484
+"1852",2003,"MG Rover Group","Manual","Petrol",192.46
+"1853",2004,"MG Rover Group","Manual","Petrol",193.119047619048
+"1854",2005,"MG Rover Group","Manual","Petrol",196.621621621622
+"1855",2006,"MG Rover Group","Manual","Petrol",196.621621621622
+"1856",2001,"Mini","Manual","Petrol",160.5
+"1857",2002,"Mini","Manual","Petrol",174.333333333333
+"1858",2003,"Mini","Manual","Petrol",175
+"1859",2004,"Mini","Manual","Petrol",174.333333333333
+"1860",2005,"Mini","Manual","Petrol",182.666666666667
+"1861",2006,"Mini","Manual","Petrol",189.25
+"1862",2007,"Mini","Manual","Petrol",175.2
+"1863",2008,"Mini","Manual","Petrol",160
+"1864",2009,"Mini","Manual","Petrol",144.2
+"1865",2010,"Mini","Manual","Petrol",142.2
+"1866",2011,"Mini","Manual","Petrol",141.25
+"1867",2012,"Mini","Manual","Petrol",142
+"1868",2013,"Mini","Manual","Petrol",151.235294117647
+"1869",2000,"Mitsubishi","Manual","Petrol",191.69696969697
+"1870",2001,"Mitsubishi","Manual","Petrol",199.297297297297
+"1871",2002,"Mitsubishi","Manual","Petrol",203.018867924528
+"1872",2003,"Mitsubishi","Manual","Petrol",209.933333333333
+"1873",2004,"Mitsubishi","Manual","Petrol",202.157894736842
+"1874",2005,"Mitsubishi","Manual","Petrol",195.473684210526
+"1875",2006,"Mitsubishi","Manual","Petrol",190
+"1876",2007,"Mitsubishi","Manual","Petrol",182.444444444444
+"1877",2008,"Mitsubishi","Manual","Petrol",171.2
+"1878",2009,"Mitsubishi","Manual","Petrol",170.272727272727
+"1879",2010,"Mitsubishi","Manual","Petrol",165.125
+"1880",2011,"Mitsubishi","Manual","Petrol",163.363636363636
+"1881",2012,"Mitsubishi","Manual","Petrol",132.428571428571
+"1882",2013,"Mitsubishi","Manual","Petrol",126.235294117647
+"1883",2002,"Morgan Motor Company","Manual","Petrol",260.333333333333
+"1884",2003,"Morgan Motor Company","Manual","Petrol",260.333333333333
+"1885",2004,"Morgan Motor Company","Manual","Petrol",260.333333333333
+"1886",2005,"Morgan Motor Company","Manual","Petrol",225.4
+"1887",2006,"Morgan Motor Company","Manual","Petrol",225.4
+"1888",2007,"Morgan Motor Company","Manual","Petrol",208
+"1889",2008,"Morgan Motor Company","Manual","Petrol",207.5
+"1890",2009,"Morgan Motor Company","Manual","Petrol",207.5
+"1891",2010,"Morgan Motor Company","Manual","Petrol",207.5
+"1892",2011,"Morgan Motor Company","Manual","Petrol",207.5
+"1893",2012,"Morgan Motor Company","Manual","Petrol",181.666666666667
+"1894",2013,"Morgan Motor Company","Manual","Petrol",181.666666666667
+"1895",2000,"Nissan","Manual","Petrol",199.466666666667
+"1896",2001,"Nissan","Manual","Petrol",193.470588235294
+"1897",2002,"Nissan","Manual","Petrol",178.181818181818
+"1898",2003,"Nissan","Manual","Petrol",189.071428571429
+"1899",2004,"Nissan","Manual","Petrol",182.846153846154
+"1900",2005,"Nissan","Manual","Petrol",189.071428571429
+"1901",2006,"Nissan","Manual","Petrol",190.310344827586
+"1902",2007,"Nissan","Manual","Petrol",189.357142857143
+"1903",2008,"Nissan","Manual","Petrol",190.176470588235
+"1904",2009,"Nissan","Manual","Petrol",189.1
+"1905",2010,"Nissan","Manual","Petrol",176.384615384615
+"1906",2011,"Nissan","Manual","Petrol",161
+"1907",2012,"Nissan","Manual","Petrol",148.210526315789
+"1908",2013,"Nissan","Manual","Petrol",150.65
+"1909",2000,"Perodua","Manual","Petrol",129
+"1910",2001,"Perodua","Manual","Petrol",131.333333333333
+"1911",2002,"Perodua","Manual","Petrol",126
+"1912",2003,"Perodua","Manual","Petrol",126
+"1913",2004,"Perodua","Manual","Petrol",126
+"1914",2005,"Perodua","Manual","Petrol",126
+"1915",2006,"Perodua","Manual","Petrol",130.4
+"1916",2007,"Perodua","Manual","Petrol",137
+"1917",2008,"Perodua","Manual","Petrol",137
+"1918",2009,"Perodua","Manual","Petrol",137
+"1919",2010,"Perodua","Manual","Petrol",137
+"1920",2011,"Perodua","Manual","Petrol",137
+"1921",2012,"Perodua","Manual","Petrol",137
+"1922",2013,"Perodua","Manual","Petrol",137
+"1923",2000,"Peugeot","Manual","Petrol",199.68
+"1924",2001,"Peugeot","Manual","Petrol",191.388888888889
+"1925",2002,"Peugeot","Manual","Petrol",186.810810810811
+"1926",2003,"Peugeot","Manual","Petrol",185.739130434783
+"1927",2004,"Peugeot","Manual","Petrol",184.418604651163
+"1928",2005,"Peugeot","Manual","Petrol",179.810810810811
+"1929",2006,"Peugeot","Manual","Petrol",181.039215686275
+"1930",2007,"Peugeot","Manual","Petrol",177.931034482759
+"1931",2008,"Peugeot","Manual","Petrol",171.914285714286
+"1932",2009,"Peugeot","Manual","Petrol",166.5
+"1933",2010,"Peugeot","Manual","Petrol",159.25
+"1934",2011,"Peugeot","Manual","Petrol",152.914893617021
+"1935",2012,"Peugeot","Manual","Petrol",142.901960784314
+"1936",2013,"Peugeot","Manual","Petrol",143.785714285714
+"1937",2000,"Porsche","Manual","Petrol",282.428571428571
+"1938",2001,"Porsche","Manual","Petrol",282.714285714286
+"1939",2002,"Porsche","Manual","Petrol",276
+"1940",2003,"Porsche","Manual","Petrol",287.777777777778
+"1941",2004,"Porsche","Manual","Petrol",277.545454545455
+"1942",2005,"Porsche","Manual","Petrol",289.3125
+"1943",2006,"Porsche","Manual","Petrol",276.571428571429
+"1944",2007,"Porsche","Manual","Petrol",274.238095238095
+"1945",2008,"Porsche","Manual","Petrol",275.571428571429
+"1946",2009,"Porsche","Manual","Petrol",266.516129032258
+"1947",2010,"Porsche","Manual","Petrol",265.586206896552
+"1948",2011,"Porsche","Manual","Petrol",244.342857142857
+"1949",2012,"Porsche","Manual","Petrol",234.78125
+"1950",2013,"Porsche","Manual","Petrol",232.571428571429
+"1951",2000,"Proton","Manual","Petrol",203.352941176471
+"1952",2001,"Proton","Manual","Petrol",207.5625
+"1953",2002,"Proton","Manual","Petrol",210.6875
+"1954",2003,"Proton","Manual","Petrol",210.6875
+"1955",2004,"Proton","Manual","Petrol",210.6875
+"1956",2005,"Proton","Manual","Petrol",164.25
+"1957",2006,"Proton","Manual","Petrol",156.285714285714
+"1958",2007,"Proton","Manual","Petrol",160.333333333333
+"1959",2008,"Proton","Manual","Petrol",159.857142857143
+"1960",2009,"Proton","Manual","Petrol",159.857142857143
+"1961",2010,"Proton","Manual","Petrol",159.857142857143
+"1962",2011,"Proton","Manual","Petrol",158.666666666667
+"1963",2000,"Renault","Manual","Petrol",180.46875
+"1964",2001,"Renault","Manual","Petrol",177.916666666667
+"1965",2002,"Renault","Manual","Petrol",183.948717948718
+"1966",2003,"Renault","Manual","Petrol",186.038461538462
+"1967",2004,"Renault","Manual","Petrol",190.785714285714
+"1968",2005,"Renault","Manual","Petrol",189.25
+"1969",2006,"Renault","Manual","Petrol",184.952380952381
+"1970",2007,"Renault","Manual","Petrol",182.222222222222
+"1971",2008,"Renault","Manual","Petrol",173.024390243902
+"1972",2009,"Renault","Manual","Petrol",173.884615384615
+"1973",2010,"Renault","Manual","Petrol",169.425
+"1974",2011,"Renault","Manual","Petrol",164.746031746032
+"1975",2012,"Renault","Manual","Petrol",150.636363636364
+"1976",2013,"Renault","Manual","Petrol",139.806451612903
+"1977",2000,"Rover Group Limited","Manual","Petrol",182.5
+"1978",2000,"Saab","Manual","Petrol",217.75
+"1979",2001,"Saab","Manual","Petrol",216.7
+"1980",2002,"Saab","Manual","Petrol",212.333333333333
+"1981",2003,"Saab","Manual","Petrol",209.157894736842
+"1982",2004,"Saab","Manual","Petrol",209.416666666667
+"1983",2005,"Saab","Manual","Petrol",207.357142857143
+"1984",2006,"Saab","Manual","Petrol",215.166666666667
+"1985",2007,"Saab","Manual","Petrol",212.788461538462
+"1986",2008,"Saab","Manual","Petrol",208.681818181818
+"1987",2009,"Saab","Manual","Petrol",209.607843137255
+"1988",2010,"Saab","Manual","Petrol",198.433333333333
+"1989",2011,"Saab","Manual","Petrol",175.818181818182
+"1990",2000,"Seat","Manual","Petrol",193.7
+"1991",2001,"Seat","Manual","Petrol",192.071428571429
+"1992",2002,"Seat","Manual","Petrol",185.705882352941
+"1993",2003,"Seat","Manual","Petrol",187.421052631579
+"1994",2004,"Seat","Manual","Petrol",182.095238095238
+"1995",2005,"Seat","Manual","Petrol",189.875
+"1996",2006,"Seat","Manual","Petrol",192.6875
+"1997",2007,"Seat","Manual","Petrol",185.428571428571
+"1998",2008,"Seat","Manual","Petrol",182.777777777778
+"1999",2009,"Seat","Manual","Petrol",172.52380952381
+"2000",2010,"Seat","Manual","Petrol",160.384615384615
+"2001",2011,"Seat","Manual","Petrol",143.625
+"2002",2012,"Seat","Manual","Petrol",141.608695652174
+"2003",2013,"Seat","Manual","Petrol",139.111111111111
+"2004",2000,"Skoda","Manual","Petrol",179.166666666667
+"2005",2001,"Skoda","Manual","Petrol",185.157894736842
+"2006",2002,"Skoda","Manual","Petrol",187.305555555556
+"2007",2003,"Skoda","Manual","Petrol",178.205882352941
+"2008",2004,"Skoda","Manual","Petrol",180.771428571429
+"2009",2005,"Skoda","Manual","Petrol",176.307692307692
+"2010",2006,"Skoda","Manual","Petrol",178.521739130435
+"2011",2007,"Skoda","Manual","Petrol",171.904761904762
+"2012",2008,"Skoda","Manual","Petrol",168.677419354839
+"2013",2009,"Skoda","Manual","Petrol",171.564102564103
+"2014",2010,"Skoda","Manual","Petrol",163.029411764706
+"2015",2011,"Skoda","Manual","Petrol",153.5
+"2016",2012,"Skoda","Manual","Petrol",149.840909090909
+"2017",2013,"Skoda","Manual","Petrol",146.526315789474
+"2018",2005,"Smart","Manual","Petrol",137.2
+"2019",2006,"Smart","Manual","Petrol",138.25
+"2020",2000,"Subaru","Manual","Petrol",222.75
+"2021",2001,"Subaru","Manual","Petrol",222.695652173913
+"2022",2002,"Subaru","Manual","Petrol",233.5
+"2023",2003,"Subaru","Manual","Petrol",212.352941176471
+"2024",2004,"Subaru","Manual","Petrol",227.909090909091
+"2025",2005,"Subaru","Manual","Petrol",223.266666666667
+"2026",2006,"Subaru","Manual","Petrol",230.782608695652
+"2027",2007,"Subaru","Manual","Petrol",236.5625
+"2028",2008,"Subaru","Manual","Petrol",221.444444444444
+"2029",2009,"Subaru","Manual","Petrol",212.96
+"2030",2010,"Subaru","Manual","Petrol",188.545454545455
+"2031",2011,"Subaru","Manual","Petrol",200.5
+"2032",2012,"Subaru","Manual","Petrol",187
+"2033",2013,"Subaru","Manual","Petrol",182.846153846154
+"2034",2000,"Suzuki","Manual","Petrol",182.25
+"2035",2001,"Suzuki","Manual","Petrol",175.909090909091
+"2036",2002,"Suzuki","Manual","Petrol",176.4375
+"2037",2003,"Suzuki","Manual","Petrol",171.875
+"2038",2004,"Suzuki","Manual","Petrol",171.875
+"2039",2005,"Suzuki","Manual","Petrol",180.157894736842
+"2040",2006,"Suzuki","Manual","Petrol",169
+"2041",2007,"Suzuki","Manual","Petrol",169.285714285714
+"2042",2008,"Suzuki","Manual","Petrol",170.192307692308
+"2043",2009,"Suzuki","Manual","Petrol",167.869565217391
+"2044",2010,"Suzuki","Manual","Petrol",153.428571428571
+"2045",2011,"Suzuki","Manual","Petrol",144.888888888889
+"2046",2012,"Suzuki","Manual","Petrol",146.454545454545
+"2047",2013,"Suzuki","Manual","Petrol",146.333333333333
+"2048",2000,"Toyota","Manual","Petrol",177.555555555556
+"2049",2001,"Toyota","Manual","Petrol",178.724137931034
+"2050",2002,"Toyota","Manual","Petrol",177.555555555556
+"2051",2003,"Toyota","Manual","Petrol",177.461538461538
+"2052",2004,"Toyota","Manual","Petrol",175.961538461538
+"2053",2005,"Toyota","Manual","Petrol",173.730769230769
+"2054",2006,"Toyota","Manual","Petrol",176.571428571429
+"2055",2007,"Toyota","Manual","Petrol",166.692307692308
+"2056",2008,"Toyota","Manual","Petrol",166.692307692308
+"2057",2009,"Toyota","Manual","Petrol",150.909090909091
+"2058",2010,"Toyota","Manual","Petrol",141.842105263158
+"2059",2011,"Toyota","Manual","Petrol",139.758620689655
+"2060",2012,"Toyota","Manual","Petrol",133.111111111111
+"2061",2013,"Toyota","Manual","Petrol",135.705882352941
+"2062",2000,"Vauxhall","Manual","Petrol",203.040816326531
+"2063",2001,"Vauxhall","Manual","Petrol",202.47619047619
+"2064",2002,"Vauxhall","Manual","Petrol",206.897435897436
+"2065",2003,"Vauxhall","Manual","Petrol",187.322916666667
+"2066",2004,"Vauxhall","Manual","Petrol",192.366379310345
+"2067",2005,"Vauxhall","Manual","Petrol",179.383663366337
+"2068",2006,"Vauxhall","Manual","Petrol",180.188775510204
+"2069",2007,"Vauxhall","Manual","Petrol",181.485380116959
+"2070",2008,"Vauxhall","Manual","Petrol",180.470238095238
+"2071",2009,"Vauxhall","Manual","Petrol",177.08
+"2072",2010,"Vauxhall","Manual","Petrol",168.316666666667
+"2073",2011,"Vauxhall","Manual","Petrol",163.706896551724
+"2074",2012,"Vauxhall","Manual","Petrol",155.567010309278
+"2075",2013,"Vauxhall","Manual","Petrol",146.56880733945
+"2076",2000,"Volkswagen","Manual","Petrol",195.955223880597
+"2077",2001,"Volkswagen","Manual","Petrol",206.472727272727
+"2078",2002,"Volkswagen","Manual","Petrol",210.529411764706
+"2079",2003,"Volkswagen","Manual","Petrol",201.072463768116
+"2080",2004,"Volkswagen","Manual","Petrol",207.873015873016
+"2081",2005,"Volkswagen","Manual","Petrol",196.148148148148
+"2082",2006,"Volkswagen","Manual","Petrol",193.727272727273
+"2083",2007,"Volkswagen","Manual","Petrol",182.266666666667
+"2084",2008,"Volkswagen","Manual","Petrol",179.510638297872
+"2085",2009,"Volkswagen","Manual","Petrol",174.393442622951
+"2086",2010,"Volkswagen","Manual","Petrol",169.627906976744
+"2087",2011,"Volkswagen","Manual","Petrol",156.857142857143
+"2088",2012,"Volkswagen","Manual","Petrol",148.328767123288
+"2089",2013,"Volkswagen","Manual","Petrol",146.509433962264
+"2090",2000,"Volvo","Manual","Petrol",212.647058823529
+"2091",2001,"Volvo","Manual","Petrol",214.95652173913
+"2092",2002,"Volvo","Manual","Petrol",214.764705882353
+"2093",2003,"Volvo","Manual","Petrol",215.766666666667
+"2094",2004,"Volvo","Manual","Petrol",216.183908045977
+"2095",2005,"Volvo","Manual","Petrol",218.441176470588
+"2096",2006,"Volvo","Manual","Petrol",216.966666666667
+"2097",2007,"Volvo","Manual","Petrol",204.484848484848
+"2098",2008,"Volvo","Manual","Petrol",196.620689655172
+"2099",2009,"Volvo","Manual","Petrol",194.772727272727
+"2100",2010,"Volvo","Manual","Petrol",187.75
+"2101",2011,"Volvo","Manual","Petrol",174.344827586207
+"2102",2012,"Volvo","Manual","Petrol",164.653846153846
+"2103",2013,"Volvo","Manual","Petrol",157.967741935484
+"2104",2009,"Cadillac","Automatic","Petrol / E85",219
+"2105",2009,"Saab","Automatic","Petrol / E85",230.1
+"2106",2009,"Volvo","Automatic","Petrol / E85",244
+"2107",2009,"Cadillac","Manual","Petrol / E85",197
+"2108",2009,"Ford","Manual","Petrol / E85",181.714285714286
+"2109",2009,"Peugeot","Manual","Petrol / E85",194
+"2110",2009,"Saab","Manual","Petrol / E85",198.086956521739
+"2111",2009,"Volvo","Manual","Petrol / E85",196.571428571429
+"2112",2010,"Bentley Motors","Automatic","Petrol / E85 (Flex Fuel)",388
+"2113",2011,"Bentley Motors","Automatic","Petrol / E85 (Flex Fuel)",392
+"2114",2012,"Bentley Motors","Automatic","Petrol / E85 (Flex Fuel)",389.333333333333
+"2115",2013,"Bentley Motors","Automatic","Petrol / E85 (Flex Fuel)",392
+"2116",2008,"Cadillac","Automatic","Petrol / E85 (Flex Fuel)",219
+"2117",2010,"Cadillac","Automatic","Petrol / E85 (Flex Fuel)",219
+"2118",2008,"Saab","Automatic","Petrol / E85 (Flex Fuel)",231.705882352941
+"2119",2010,"Saab","Automatic","Petrol / E85 (Flex Fuel)",226.666666666667
+"2120",2010,"Volvo","Automatic","Petrol / E85 (Flex Fuel)",230.5
+"2121",2008,"Cadillac","Manual","Petrol / E85 (Flex Fuel)",197
+"2122",2010,"Cadillac","Manual","Petrol / E85 (Flex Fuel)",197
+"2123",2008,"Ford","Manual","Petrol / E85 (Flex Fuel)",181.714285714286
+"2124",2010,"Ford","Manual","Petrol / E85 (Flex Fuel)",185.545454545455
+"2125",2011,"Ford","Manual","Petrol / E85 (Flex Fuel)",174.941176470588
+"2126",2012,"Ford","Manual","Petrol / E85 (Flex Fuel)",160.5
+"2127",2010,"Peugeot","Manual","Petrol / E85 (Flex Fuel)",194
+"2128",2008,"Saab","Manual","Petrol / E85 (Flex Fuel)",201.705882352941
+"2129",2010,"Saab","Manual","Petrol / E85 (Flex Fuel)",188.666666666667
+"2130",2010,"Volvo","Manual","Petrol / E85 (Flex Fuel)",192.571428571429
+"2131",2012,"BMW","Automatic","Petrol Electric",158.75
+"2132",2013,"BMW","Automatic","Petrol Electric",155.714285714286
+"2133",2006,"Honda","Automatic","Petrol Electric",109
+"2134",2007,"Honda","Automatic","Petrol Electric",109
+"2135",2013,"Honda","Automatic","Petrol Electric",97.5
+"2136",2005,"Honda","Manual","Petrol Electric",98
+"2137",2013,"Audi","Automatic","Petrol Hybrid",148
+"2138",2010,"Honda","Automatic","Petrol Hybrid",106.6
+"2139",2011,"Honda","Automatic","Petrol Hybrid",104.9
+"2140",2012,"Honda","Automatic","Petrol Hybrid",101.5
+"2141",2013,"Honda","Automatic","Petrol Hybrid",100.75
+"2142",2005,"Lexus","Automatic","Petrol Hybrid",192
+"2143",2006,"Lexus","Automatic","Petrol Hybrid",189
+"2144",2007,"Lexus","Automatic","Petrol Hybrid",189
+"2145",2008,"Lexus","Automatic","Petrol Hybrid",195.5
+"2146",2010,"Lexus","Automatic","Petrol Hybrid",188.166666666667
+"2147",2011,"Lexus","Automatic","Petrol Hybrid",171.333333333333
+"2148",2012,"Lexus","Automatic","Petrol Hybrid",160.333333333333
+"2149",2013,"Lexus","Automatic","Petrol Hybrid",124.769230769231
+"2150",2011,"Porsche","Automatic","Petrol Hybrid",176
+"2151",2012,"Porsche","Automatic","Petrol Hybrid",176
+"2152",2013,"Porsche","Automatic","Petrol Hybrid",176
+"2153",2002,"Toyota","Automatic","Petrol Hybrid",120
+"2154",2003,"Toyota","Automatic","Petrol Hybrid",104
+"2155",2004,"Toyota","Automatic","Petrol Hybrid",120
+"2156",2005,"Toyota","Automatic","Petrol Hybrid",104
+"2157",2006,"Toyota","Automatic","Petrol Hybrid",104
+"2158",2007,"Toyota","Automatic","Petrol Hybrid",104
+"2159",2008,"Toyota","Automatic","Petrol Hybrid",104
+"2160",2010,"Toyota","Automatic","Petrol Hybrid",90.5
+"2161",2011,"Toyota","Automatic","Petrol Hybrid",91.125
+"2162",2012,"Toyota","Automatic","Petrol Hybrid",89.75
+"2163",2013,"Toyota","Automatic","Petrol Hybrid",89.0909090909091
+"2164",2011,"Volkswagen","Automatic","Petrol Hybrid",193
+"2165",2012,"Volkswagen","Automatic","Petrol Hybrid",193
+"2166",2013,"Volkswagen","Automatic","Petrol Hybrid",193
+"2167",2003,"Honda","Manual","Petrol Hybrid",116
+"2168",2004,"Honda","Manual","Petrol Hybrid",116
+"2169",2011,"Honda","Manual","Petrol Hybrid",117
+"2170",2012,"Honda","Manual","Petrol Hybrid",117
