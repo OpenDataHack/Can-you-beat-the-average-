@@ -24,8 +24,18 @@ Finally, the app compares the total journey emissions against the national
 average, where it can be decided whether the user has beaten their nation or
 not.
 
+Who will benefit/what is the impact?:
+
+The app will enable anyone to calculate their own personal impact on the planet
+and therefore adjust their lifestyle accordingly, if necessary.
+
+What have we learnt?:
+
+How to use Shiny App and calculate carbon emissions for almost any journey, via
+various modes of transport.
+
+What we would have included, given more time:
+
 Ideally, we would also like to include calculations of the CO2 emissions
 resulting from household gas and electricity usage and factors concerning waste
 and food miles, in order to get a complete picture.
-
-Who will benefit?:
