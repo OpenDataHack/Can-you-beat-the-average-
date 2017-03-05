@@ -1,7 +1,7 @@
-Title: Can you beat the average?
-Members: Sajne Malde, Joe Wallwork, Ishant Aggarwal
+##Can you beat the average?
+**Members:** Sajne Malde, Joe Wallwork, Ishant Aggarwal
 
-Description:
+##Description:
 
 The aim of our project is to raise awareness of the overuse of resources
 and high emissions across the world, which are driving climate change and
@@ -24,17 +24,17 @@ Finally, the app compares the total journey emissions against the national
 average, where it can be decided whether the user has beaten their nation or
 not.
 
-Who will benefit/what is the impact?:
+##Who will benefit/what is the impact?:
 
 The app will enable anyone to calculate their own personal impact on the planet
 and therefore adjust their lifestyle accordingly, if necessary.
 
-What have we learnt?:
+##What have we learnt?:
 
 How to use Shiny App and calculate carbon emissions for almost any journey, via
 various modes of transport.
 
-What we would have included, given more time:
+##What we would have included, given more time:
 
 Ideally, we would also like to include calculations of the CO2 emissions
 resulting from household gas and electricity usage and factors concerning waste
